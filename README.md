@@ -1,0 +1,2 @@
+# Associated-Rule-Mining---Brute-Force-Naive-Bayes-FP-Tree
+Associated Rule Mining using three different approaches and it's performance analysis: Frequent itemsets are generated using Brute Force, Naive Bayes and FP Tree techniques. Association rule mining is performed on these generated frequent itemsets. Example input csv and txt files are included along with example rules and fptree output files. A modular approach to Associated Rule Mining is demonstrated.
