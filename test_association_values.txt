@@ -1,0 +1,24 @@
+
+rule:('Lassi', 'Ghee', 'Cheese', 'Sugar', 'Panner', 'Coffee Powder')->{'Bread'}->55.00000000000001
+rule:('Lassi', 'Ghee', 'Cheese', 'Butter', 'Milk', 'Yougurt')->{'Coffee Powder'}->56.36363636363636
+rule:('Lassi', 'Ghee', 'Sugar', 'Panner', 'Milk', 'Coffee Powder')->{'Bread'}->55.3030303030303
+rule:('Ghee', 'Sugar', 'Panner', 'Milk', 'Bread', 'Coffee Powder')->{'Lassi'}->57.48031496062992
+rule:('Ghee', 'Sweet', 'Panner', 'Milk', 'Bread', 'Tea Powder')->{'Lassi'}->55.172413793103445
+rule:('Ghee', 'Sweet', 'Panner', 'Bread', 'Coffee Powder', 'Tea Powder')->{'Lassi'}->57.407407407407405
+rule:('Ghee', 'Sweet', 'Panner', 'Coffee Powder', 'Yougurt', 'Tea Powder')->{'Lassi'}->56.310679611650485
+rule:('Lassi', 'Sweet', 'Butter', 'Milk', 'Coffee Powder', 'Tea Powder')->{'Sugar'}->57.85123966942148
+rule:('Sugar', 'Sweet', 'Panner', 'Milk', 'Coffee Powder', 'Yougurt')->{'Lassi'}->56.14035087719298
+rule:('Sugar', 'Butter', 'Panner', 'Milk', 'Bread', 'Coffee Powder')->{'Lassi'}->55.46218487394958
+rule:('Ghee', 'Cheese', 'Sweet', 'Butter', 'Panner', 'Coffee Powder')->{'Yougurt'}->55.769230769230774
+rule:('Cheese', 'Butter', 'Panner', 'Milk', 'Coffee Powder', 'Tea Powder')->{'Ghee'}->56.38297872340425
+rule:('Cheese', 'Sweet', 'Butter', 'Milk', 'Coffee Powder', 'Tea Powder')->{'Sugar'}->55.45454545454545
+rule:('Cheese', 'Sweet', 'Panner', 'Milk', 'Coffee Powder', 'Tea Powder')->{'Sugar'}->55.208333333333336
+rule:('Cheese', 'Sugar', 'Butter', 'Bread', 'Coffee Powder', 'Yougurt')->{'Milk'}->55.65217391304348
+rule:('Cheese', 'Butter', 'Panner', 'Milk', 'Coffee Powder', 'Tea Powder')->{'Yougurt'}->55.319148936170215
+rule:('Sugar', 'Sweet', 'Butter', 'Milk', 'Yougurt', 'Tea Powder')->{'Coffee Powder'}->55.00000000000001
+rule:('Ghee', 'Sweet', 'Panner', 'Milk', 'Tea Powder')->{'Lassi'}->55.465587044534416
+rule:('Ghee', 'Sweet', 'Panner', 'Bread', 'Tea Powder')->{'Lassi'}->55.82329317269076
+rule:('Sugar', 'Sweet', 'Panner', 'Coffee Powder', 'Tea Powder')->{'Lassi'}->55.26315789473685
+rule:('Sweet', 'Panner', 'Bread', 'Coffee Powder', 'Tea Powder')->{'Lassi'}->55.21235521235521
+rule:('Sweet', 'Butter', 'Milk', 'Coffee Powder', 'Tea Powder')->{'Sugar'}->55.639097744360896
+rule:('Ghee', 'Sweet', 'Panner', 'Tea Powder')->{'Lassi'}->55.1789077212806

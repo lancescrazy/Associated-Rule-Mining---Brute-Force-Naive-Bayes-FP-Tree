@@ -1,0 +1,1559 @@
+{'Tea Powder'}
+{'Cheese', 'Tea Powder'}
+{'Cheese', 'Tea Powder', 'Ghee'}
+{'Cheese', 'Sweet', 'Tea Powder', 'Ghee'}
+{'Ghee', 'Butter', 'Sweet', 'Cheese', 'Tea Powder'}
+{'Ghee', 'Coffee Powder', 'Sweet', 'Cheese', 'Tea Powder'}
+{'Ghee', 'Sweet', 'Cheese', 'Milk', 'Tea Powder'}
+{'Ghee', 'Sugar', 'Sweet', 'Cheese', 'Tea Powder'}
+{'Ghee', 'Yougurt', 'Sweet', 'Cheese', 'Tea Powder'}
+{'Ghee', 'Sweet', 'Panner', 'Cheese', 'Tea Powder'}
+{'Bread', 'Ghee', 'Sweet', 'Cheese', 'Tea Powder'}
+{'Ghee', 'Sweet', 'Lassi', 'Cheese', 'Tea Powder'}
+{'Cheese', 'Tea Powder', 'Ghee', 'Lassi'}
+{'Ghee', 'Butter', 'Lassi', 'Cheese', 'Tea Powder'}
+{'Ghee', 'Yougurt', 'Lassi', 'Cheese', 'Tea Powder'}
+{'Ghee', 'Lassi', 'Cheese', 'Milk', 'Tea Powder'}
+{'Ghee', 'Coffee Powder', 'Lassi', 'Cheese', 'Tea Powder'}
+{'Ghee', 'Sugar', 'Lassi', 'Cheese', 'Tea Powder'}
+{'Bread', 'Ghee', 'Lassi', 'Cheese', 'Tea Powder'}
+{'Ghee', 'Panner', 'Lassi', 'Cheese', 'Tea Powder'}
+{'Panner', 'Cheese', 'Tea Powder', 'Ghee'}
+{'Ghee', 'Coffee Powder', 'Panner', 'Cheese', 'Tea Powder'}
+{'Ghee', 'Sugar', 'Panner', 'Cheese', 'Tea Powder'}
+{'Ghee', 'Panner', 'Cheese', 'Milk', 'Tea Powder'}
+{'Bread', 'Ghee', 'Panner', 'Cheese', 'Tea Powder'}
+{'Ghee', 'Yougurt', 'Panner', 'Cheese', 'Tea Powder'}
+{'Ghee', 'Butter', 'Panner', 'Cheese', 'Tea Powder'}
+{'Cheese', 'Coffee Powder', 'Tea Powder', 'Ghee'}
+{'Ghee', 'Coffee Powder', 'Cheese', 'Milk', 'Tea Powder'}
+{'Ghee', 'Butter', 'Coffee Powder', 'Cheese', 'Tea Powder'}
+{'Bread', 'Ghee', 'Coffee Powder', 'Cheese', 'Tea Powder'}
+{'Ghee', 'Yougurt', 'Coffee Powder', 'Cheese', 'Tea Powder'}
+{'Cheese', 'Tea Powder', 'Ghee', 'Sugar'}
+{'Ghee', 'Sugar', 'Butter', 'Cheese', 'Tea Powder'}
+{'Bread', 'Ghee', 'Sugar', 'Cheese', 'Tea Powder'}
+{'Ghee', 'Sugar', 'Cheese', 'Milk', 'Tea Powder'}
+{'Ghee', 'Sugar', 'Yougurt', 'Cheese', 'Tea Powder'}
+{'Cheese', 'Tea Powder', 'Ghee', 'Butter'}
+{'Ghee', 'Butter', 'Cheese', 'Milk', 'Tea Powder'}
+{'Ghee', 'Yougurt', 'Butter', 'Cheese', 'Tea Powder'}
+{'Bread', 'Ghee', 'Butter', 'Cheese', 'Tea Powder'}
+{'Cheese', 'Milk', 'Tea Powder', 'Ghee'}
+{'Bread', 'Ghee', 'Cheese', 'Milk', 'Tea Powder'}
+{'Ghee', 'Yougurt', 'Cheese', 'Milk', 'Tea Powder'}
+{'Cheese', 'Tea Powder', 'Ghee', 'Bread'}
+{'Bread', 'Ghee', 'Yougurt', 'Cheese', 'Tea Powder'}
+{'Cheese', 'Yougurt', 'Tea Powder', 'Ghee'}
+{'Cheese', 'Tea Powder', 'Butter'}
+{'Cheese', 'Tea Powder', 'Lassi', 'Butter'}
+{'Bread', 'Butter', 'Lassi', 'Cheese', 'Tea Powder'}
+{'Yougurt', 'Butter', 'Lassi', 'Cheese', 'Tea Powder'}
+{'Butter', 'Lassi', 'Cheese', 'Milk', 'Tea Powder'}
+{'Sugar', 'Butter', 'Lassi', 'Cheese', 'Tea Powder'}
+{'Butter', 'Panner', 'Lassi', 'Cheese', 'Tea Powder'}
+{'Butter', 'Coffee Powder', 'Lassi', 'Cheese', 'Tea Powder'}
+{'Butter', 'Sweet', 'Lassi', 'Cheese', 'Tea Powder'}
+{'Cheese', 'Milk', 'Tea Powder', 'Butter'}
+{'Butter', 'Panner', 'Cheese', 'Milk', 'Tea Powder'}
+{'Bread', 'Butter', 'Cheese', 'Milk', 'Tea Powder'}
+{'Yougurt', 'Butter', 'Cheese', 'Milk', 'Tea Powder'}
+{'Butter', 'Sweet', 'Cheese', 'Milk', 'Tea Powder'}
+{'Butter', 'Coffee Powder', 'Cheese', 'Milk', 'Tea Powder'}
+{'Sugar', 'Butter', 'Cheese', 'Milk', 'Tea Powder'}
+{'Cheese', 'Coffee Powder', 'Tea Powder', 'Butter'}
+{'Butter', 'Coffee Powder', 'Panner', 'Cheese', 'Tea Powder'}
+{'Bread', 'Butter', 'Coffee Powder', 'Cheese', 'Tea Powder'}
+{'Sugar', 'Butter', 'Coffee Powder', 'Cheese', 'Tea Powder'}
+{'Butter', 'Coffee Powder', 'Sweet', 'Cheese', 'Tea Powder'}
+{'Yougurt', 'Butter', 'Coffee Powder', 'Cheese', 'Tea Powder'}
+{'Panner', 'Cheese', 'Tea Powder', 'Butter'}
+{'Bread', 'Butter', 'Panner', 'Cheese', 'Tea Powder'}
+{'Sugar', 'Butter', 'Panner', 'Cheese', 'Tea Powder'}
+{'Yougurt', 'Butter', 'Panner', 'Cheese', 'Tea Powder'}
+{'Butter', 'Sweet', 'Panner', 'Cheese', 'Tea Powder'}
+{'Cheese', 'Tea Powder', 'Bread', 'Butter'}
+{'Bread', 'Butter', 'Sweet', 'Cheese', 'Tea Powder'}
+{'Bread', 'Sugar', 'Butter', 'Cheese', 'Tea Powder'}
+{'Bread', 'Yougurt', 'Butter', 'Cheese', 'Tea Powder'}
+{'Cheese', 'Tea Powder', 'Sugar', 'Butter'}
+{'Sugar', 'Yougurt', 'Butter', 'Cheese', 'Tea Powder'}
+{'Sugar', 'Butter', 'Sweet', 'Cheese', 'Tea Powder'}
+{'Cheese', 'Yougurt', 'Tea Powder', 'Butter'}
+{'Yougurt', 'Butter', 'Sweet', 'Cheese', 'Tea Powder'}
+{'Cheese', 'Sweet', 'Tea Powder', 'Butter'}
+{'Cheese', 'Milk', 'Tea Powder'}
+{'Panner', 'Cheese', 'Milk', 'Tea Powder'}
+{'Coffee Powder', 'Panner', 'Cheese', 'Milk', 'Tea Powder'}
+{'Panner', 'Lassi', 'Cheese', 'Milk', 'Tea Powder'}
+{'Sweet', 'Panner', 'Cheese', 'Milk', 'Tea Powder'}
+{'Yougurt', 'Panner', 'Cheese', 'Milk', 'Tea Powder'}
+{'Sugar', 'Panner', 'Cheese', 'Milk', 'Tea Powder'}
+{'Bread', 'Panner', 'Cheese', 'Milk', 'Tea Powder'}
+{'Cheese', 'Milk', 'Tea Powder', 'Lassi'}
+{'Bread', 'Lassi', 'Cheese', 'Milk', 'Tea Powder'}
+{'Yougurt', 'Lassi', 'Cheese', 'Milk', 'Tea Powder'}
+{'Sweet', 'Lassi', 'Cheese', 'Milk', 'Tea Powder'}
+{'Coffee Powder', 'Lassi', 'Cheese', 'Milk', 'Tea Powder'}
+{'Sugar', 'Lassi', 'Cheese', 'Milk', 'Tea Powder'}
+{'Coffee Powder', 'Cheese', 'Milk', 'Tea Powder'}
+{'Coffee Powder', 'Sweet', 'Cheese', 'Milk', 'Tea Powder'}
+{'Bread', 'Coffee Powder', 'Cheese', 'Milk', 'Tea Powder'}
+{'Sugar', 'Coffee Powder', 'Cheese', 'Milk', 'Tea Powder'}
+{'Yougurt', 'Coffee Powder', 'Cheese', 'Milk', 'Tea Powder'}
+{'Cheese', 'Milk', 'Tea Powder', 'Sweet'}
+{'Yougurt', 'Sweet', 'Cheese', 'Milk', 'Tea Powder'}
+{'Sugar', 'Sweet', 'Cheese', 'Milk', 'Tea Powder'}
+{'Cheese', 'Milk', 'Tea Powder', 'Bread'}
+{'Bread', 'Sugar', 'Cheese', 'Milk', 'Tea Powder'}
+{'Bread', 'Yougurt', 'Cheese', 'Milk', 'Tea Powder'}
+{'Cheese', 'Milk', 'Yougurt', 'Tea Powder'}
+{'Sugar', 'Yougurt', 'Cheese', 'Milk', 'Tea Powder'}
+{'Cheese', 'Milk', 'Tea Powder', 'Sugar'}
+{'Cheese', 'Tea Powder', 'Lassi'}
+{'Cheese', 'Sugar', 'Tea Powder', 'Lassi'}
+{'Bread', 'Sugar', 'Lassi', 'Cheese', 'Tea Powder'}
+{'Sugar', 'Coffee Powder', 'Lassi', 'Cheese', 'Tea Powder'}
+{'Sugar', 'Panner', 'Lassi', 'Cheese', 'Tea Powder'}
+{'Sugar', 'Yougurt', 'Lassi', 'Cheese', 'Tea Powder'}
+{'Sugar', 'Sweet', 'Lassi', 'Cheese', 'Tea Powder'}
+{'Cheese', 'Coffee Powder', 'Tea Powder', 'Lassi'}
+{'Yougurt', 'Coffee Powder', 'Lassi', 'Cheese', 'Tea Powder'}
+{'Coffee Powder', 'Panner', 'Lassi', 'Cheese', 'Tea Powder'}
+{'Coffee Powder', 'Sweet', 'Lassi', 'Cheese', 'Tea Powder'}
+{'Cheese', 'Bread', 'Tea Powder', 'Lassi'}
+{'Bread', 'Sweet', 'Lassi', 'Cheese', 'Tea Powder'}
+{'Bread', 'Panner', 'Lassi', 'Cheese', 'Tea Powder'}
+{'Bread', 'Yougurt', 'Lassi', 'Cheese', 'Tea Powder'}
+{'Cheese', 'Yougurt', 'Tea Powder', 'Lassi'}
+{'Yougurt', 'Sweet', 'Lassi', 'Cheese', 'Tea Powder'}
+{'Yougurt', 'Panner', 'Lassi', 'Cheese', 'Tea Powder'}
+{'Panner', 'Cheese', 'Tea Powder', 'Lassi'}
+{'Sweet', 'Panner', 'Lassi', 'Cheese', 'Tea Powder'}
+{'Cheese', 'Sweet', 'Tea Powder', 'Lassi'}
+{'Cheese', 'Coffee Powder', 'Tea Powder'}
+{'Panner', 'Cheese', 'Coffee Powder', 'Tea Powder'}
+{'Coffee Powder', 'Sweet', 'Panner', 'Cheese', 'Tea Powder'}
+{'Sugar', 'Coffee Powder', 'Panner', 'Cheese', 'Tea Powder'}
+{'Yougurt', 'Coffee Powder', 'Panner', 'Cheese', 'Tea Powder'}
+{'Bread', 'Coffee Powder', 'Panner', 'Cheese', 'Tea Powder'}
+{'Cheese', 'Coffee Powder', 'Tea Powder', 'Sweet'}
+{'Bread', 'Coffee Powder', 'Sweet', 'Cheese', 'Tea Powder'}
+{'Sugar', 'Coffee Powder', 'Sweet', 'Cheese', 'Tea Powder'}
+{'Yougurt', 'Coffee Powder', 'Sweet', 'Cheese', 'Tea Powder'}
+{'Cheese', 'Coffee Powder', 'Tea Powder', 'Sugar'}
+{'Bread', 'Sugar', 'Coffee Powder', 'Cheese', 'Tea Powder'}
+{'Sugar', 'Yougurt', 'Coffee Powder', 'Cheese', 'Tea Powder'}
+{'Cheese', 'Coffee Powder', 'Tea Powder', 'Bread'}
+{'Bread', 'Yougurt', 'Coffee Powder', 'Cheese', 'Tea Powder'}
+{'Cheese', 'Coffee Powder', 'Yougurt', 'Tea Powder'}
+{'Panner', 'Cheese', 'Tea Powder'}
+{'Panner', 'Cheese', 'Tea Powder', 'Sugar'}
+{'Sugar', 'Sweet', 'Panner', 'Cheese', 'Tea Powder'}
+{'Bread', 'Sugar', 'Panner', 'Cheese', 'Tea Powder'}
+{'Sugar', 'Yougurt', 'Panner', 'Cheese', 'Tea Powder'}
+{'Panner', 'Cheese', 'Sweet', 'Tea Powder'}
+{'Bread', 'Sweet', 'Panner', 'Cheese', 'Tea Powder'}
+{'Yougurt', 'Sweet', 'Panner', 'Cheese', 'Tea Powder'}
+{'Panner', 'Cheese', 'Tea Powder', 'Bread'}
+{'Bread', 'Yougurt', 'Panner', 'Cheese', 'Tea Powder'}
+{'Panner', 'Cheese', 'Yougurt', 'Tea Powder'}
+{'Cheese', 'Tea Powder', 'Sugar'}
+{'Cheese', 'Bread', 'Tea Powder', 'Sugar'}
+{'Bread', 'Sugar', 'Sweet', 'Cheese', 'Tea Powder'}
+{'Bread', 'Sugar', 'Yougurt', 'Cheese', 'Tea Powder'}
+{'Cheese', 'Sweet', 'Tea Powder', 'Sugar'}
+{'Sugar', 'Yougurt', 'Sweet', 'Cheese', 'Tea Powder'}
+{'Cheese', 'Yougurt', 'Tea Powder', 'Sugar'}
+{'Cheese', 'Tea Powder', 'Bread'}
+{'Cheese', 'Sweet', 'Tea Powder', 'Bread'}
+{'Bread', 'Yougurt', 'Sweet', 'Cheese', 'Tea Powder'}
+{'Cheese', 'Yougurt', 'Tea Powder', 'Bread'}
+{'Cheese', 'Sweet', 'Tea Powder'}
+{'Cheese', 'Sweet', 'Yougurt', 'Tea Powder'}
+{'Cheese', 'Yougurt', 'Tea Powder'}
+{'Panner', 'Tea Powder'}
+{'Panner', 'Coffee Powder', 'Tea Powder'}
+{'Panner', 'Coffee Powder', 'Tea Powder', 'Milk'}
+{'Butter', 'Coffee Powder', 'Panner', 'Milk', 'Tea Powder'}
+{'Ghee', 'Coffee Powder', 'Panner', 'Milk', 'Tea Powder'}
+{'Coffee Powder', 'Panner', 'Lassi', 'Milk', 'Tea Powder'}
+{'Yougurt', 'Coffee Powder', 'Panner', 'Milk', 'Tea Powder'}
+{'Bread', 'Coffee Powder', 'Panner', 'Milk', 'Tea Powder'}
+{'Coffee Powder', 'Sweet', 'Panner', 'Milk', 'Tea Powder'}
+{'Sugar', 'Coffee Powder', 'Panner', 'Milk', 'Tea Powder'}
+{'Panner', 'Butter', 'Coffee Powder', 'Tea Powder'}
+{'Bread', 'Butter', 'Coffee Powder', 'Panner', 'Tea Powder'}
+{'Butter', 'Coffee Powder', 'Panner', 'Lassi', 'Tea Powder'}
+{'Butter', 'Coffee Powder', 'Sweet', 'Panner', 'Tea Powder'}
+{'Sugar', 'Butter', 'Coffee Powder', 'Panner', 'Tea Powder'}
+{'Yougurt', 'Butter', 'Coffee Powder', 'Panner', 'Tea Powder'}
+{'Ghee', 'Butter', 'Coffee Powder', 'Panner', 'Tea Powder'}
+{'Panner', 'Coffee Powder', 'Tea Powder', 'Ghee'}
+{'Ghee', 'Coffee Powder', 'Sweet', 'Panner', 'Tea Powder'}
+{'Bread', 'Ghee', 'Coffee Powder', 'Panner', 'Tea Powder'}
+{'Ghee', 'Yougurt', 'Coffee Powder', 'Panner', 'Tea Powder'}
+{'Ghee', 'Sugar', 'Coffee Powder', 'Panner', 'Tea Powder'}
+{'Ghee', 'Coffee Powder', 'Panner', 'Lassi', 'Tea Powder'}
+{'Panner', 'Coffee Powder', 'Yougurt', 'Tea Powder'}
+{'Yougurt', 'Coffee Powder', 'Sweet', 'Panner', 'Tea Powder'}
+{'Yougurt', 'Coffee Powder', 'Panner', 'Lassi', 'Tea Powder'}
+{'Sugar', 'Yougurt', 'Coffee Powder', 'Panner', 'Tea Powder'}
+{'Bread', 'Yougurt', 'Coffee Powder', 'Panner', 'Tea Powder'}
+{'Panner', 'Coffee Powder', 'Tea Powder', 'Sweet'}
+{'Bread', 'Coffee Powder', 'Sweet', 'Panner', 'Tea Powder'}
+{'Sugar', 'Coffee Powder', 'Sweet', 'Panner', 'Tea Powder'}
+{'Coffee Powder', 'Sweet', 'Panner', 'Lassi', 'Tea Powder'}
+{'Panner', 'Coffee Powder', 'Tea Powder', 'Sugar'}
+{'Bread', 'Sugar', 'Coffee Powder', 'Panner', 'Tea Powder'}
+{'Sugar', 'Coffee Powder', 'Panner', 'Lassi', 'Tea Powder'}
+{'Panner', 'Bread', 'Coffee Powder', 'Tea Powder'}
+{'Bread', 'Coffee Powder', 'Panner', 'Lassi', 'Tea Powder'}
+{'Panner', 'Coffee Powder', 'Tea Powder', 'Lassi'}
+{'Panner', 'Milk', 'Tea Powder'}
+{'Panner', 'Butter', 'Milk', 'Tea Powder'}
+{'Sugar', 'Butter', 'Panner', 'Milk', 'Tea Powder'}
+{'Bread', 'Butter', 'Panner', 'Milk', 'Tea Powder'}
+{'Yougurt', 'Butter', 'Panner', 'Milk', 'Tea Powder'}
+{'Butter', 'Panner', 'Lassi', 'Milk', 'Tea Powder'}
+{'Butter', 'Sweet', 'Panner', 'Milk', 'Tea Powder'}
+{'Ghee', 'Butter', 'Panner', 'Milk', 'Tea Powder'}
+{'Panner', 'Milk', 'Yougurt', 'Tea Powder'}
+{'Yougurt', 'Sweet', 'Panner', 'Milk', 'Tea Powder'}
+{'Ghee', 'Yougurt', 'Panner', 'Milk', 'Tea Powder'}
+{'Yougurt', 'Panner', 'Lassi', 'Milk', 'Tea Powder'}
+{'Sugar', 'Yougurt', 'Panner', 'Milk', 'Tea Powder'}
+{'Bread', 'Yougurt', 'Panner', 'Milk', 'Tea Powder'}
+{'Panner', 'Milk', 'Tea Powder', 'Ghee'}
+{'Ghee', 'Sweet', 'Panner', 'Milk', 'Tea Powder'}
+{'Bread', 'Ghee', 'Panner', 'Milk', 'Tea Powder'}
+{'Ghee', 'Sugar', 'Panner', 'Milk', 'Tea Powder'}
+{'Ghee', 'Panner', 'Lassi', 'Milk', 'Tea Powder'}
+{'Panner', 'Milk', 'Tea Powder', 'Sugar'}
+{'Bread', 'Sugar', 'Panner', 'Milk', 'Tea Powder'}
+{'Sugar', 'Sweet', 'Panner', 'Milk', 'Tea Powder'}
+{'Sugar', 'Panner', 'Lassi', 'Milk', 'Tea Powder'}
+{'Panner', 'Milk', 'Tea Powder', 'Sweet'}
+{'Bread', 'Sweet', 'Panner', 'Milk', 'Tea Powder'}
+{'Sweet', 'Panner', 'Lassi', 'Milk', 'Tea Powder'}
+{'Panner', 'Milk', 'Tea Powder', 'Lassi'}
+{'Bread', 'Panner', 'Lassi', 'Milk', 'Tea Powder'}
+{'Panner', 'Bread', 'Milk', 'Tea Powder'}
+{'Panner', 'Butter', 'Tea Powder'}
+{'Panner', 'Butter', 'Tea Powder', 'Bread'}
+{'Bread', 'Butter', 'Panner', 'Lassi', 'Tea Powder'}
+{'Bread', 'Butter', 'Sweet', 'Panner', 'Tea Powder'}
+{'Bread', 'Ghee', 'Butter', 'Panner', 'Tea Powder'}
+{'Bread', 'Yougurt', 'Butter', 'Panner', 'Tea Powder'}
+{'Panner', 'Butter', 'Tea Powder', 'Sugar'}
+{'Bread', 'Sugar', 'Butter', 'Panner', 'Tea Powder'}
+{'Sugar', 'Butter', 'Panner', 'Lassi', 'Tea Powder'}
+{'Ghee', 'Sugar', 'Butter', 'Panner', 'Tea Powder'}
+{'Sugar', 'Butter', 'Sweet', 'Panner', 'Tea Powder'}
+{'Sugar', 'Yougurt', 'Butter', 'Panner', 'Tea Powder'}
+{'Panner', 'Butter', 'Tea Powder', 'Lassi'}
+{'Yougurt', 'Butter', 'Panner', 'Lassi', 'Tea Powder'}
+{'Ghee', 'Butter', 'Panner', 'Lassi', 'Tea Powder'}
+{'Butter', 'Sweet', 'Panner', 'Lassi', 'Tea Powder'}
+{'Panner', 'Butter', 'Yougurt', 'Tea Powder'}
+{'Yougurt', 'Butter', 'Sweet', 'Panner', 'Tea Powder'}
+{'Ghee', 'Yougurt', 'Butter', 'Panner', 'Tea Powder'}
+{'Panner', 'Butter', 'Sweet', 'Tea Powder'}
+{'Ghee', 'Butter', 'Sweet', 'Panner', 'Tea Powder'}
+{'Panner', 'Butter', 'Tea Powder', 'Ghee'}
+{'Panner', 'Tea Powder', 'Ghee'}
+{'Panner', 'Sweet', 'Tea Powder', 'Ghee'}
+{'Ghee', 'Yougurt', 'Sweet', 'Panner', 'Tea Powder'}
+{'Ghee', 'Sugar', 'Sweet', 'Panner', 'Tea Powder'}
+{'Bread', 'Ghee', 'Sweet', 'Panner', 'Tea Powder'}
+{'Ghee', 'Sweet', 'Panner', 'Lassi', 'Tea Powder'}
+{'Panner', 'Yougurt', 'Tea Powder', 'Ghee'}
+{'Bread', 'Ghee', 'Yougurt', 'Panner', 'Tea Powder'}
+{'Ghee', 'Sugar', 'Yougurt', 'Panner', 'Tea Powder'}
+{'Ghee', 'Yougurt', 'Panner', 'Lassi', 'Tea Powder'}
+{'Panner', 'Tea Powder', 'Ghee', 'Sugar'}
+{'Bread', 'Ghee', 'Sugar', 'Panner', 'Tea Powder'}
+{'Ghee', 'Sugar', 'Panner', 'Lassi', 'Tea Powder'}
+{'Panner', 'Bread', 'Tea Powder', 'Ghee'}
+{'Bread', 'Ghee', 'Panner', 'Lassi', 'Tea Powder'}
+{'Panner', 'Tea Powder', 'Ghee', 'Lassi'}
+{'Panner', 'Yougurt', 'Tea Powder'}
+{'Panner', 'Sweet', 'Yougurt', 'Tea Powder'}
+{'Sugar', 'Yougurt', 'Sweet', 'Panner', 'Tea Powder'}
+{'Bread', 'Yougurt', 'Sweet', 'Panner', 'Tea Powder'}
+{'Yougurt', 'Sweet', 'Panner', 'Lassi', 'Tea Powder'}
+{'Panner', 'Yougurt', 'Tea Powder', 'Lassi'}
+{'Bread', 'Yougurt', 'Panner', 'Lassi', 'Tea Powder'}
+{'Sugar', 'Yougurt', 'Panner', 'Lassi', 'Tea Powder'}
+{'Panner', 'Bread', 'Yougurt', 'Tea Powder'}
+{'Bread', 'Sugar', 'Yougurt', 'Panner', 'Tea Powder'}
+{'Panner', 'Yougurt', 'Tea Powder', 'Sugar'}
+{'Panner', 'Tea Powder', 'Sugar'}
+{'Panner', 'Sweet', 'Tea Powder', 'Sugar'}
+{'Sugar', 'Sweet', 'Panner', 'Lassi', 'Tea Powder'}
+{'Panner', 'Bread', 'Tea Powder', 'Sugar'}
+{'Bread', 'Sugar', 'Sweet', 'Panner', 'Tea Powder'}
+{'Bread', 'Sugar', 'Panner', 'Lassi', 'Tea Powder'}
+{'Panner', 'Tea Powder', 'Lassi', 'Sugar'}
+{'Panner', 'Bread', 'Tea Powder'}
+{'Panner', 'Bread', 'Sweet', 'Tea Powder'}
+{'Bread', 'Sweet', 'Panner', 'Lassi', 'Tea Powder'}
+{'Panner', 'Bread', 'Tea Powder', 'Lassi'}
+{'Panner', 'Sweet', 'Tea Powder'}
+{'Panner', 'Sweet', 'Tea Powder', 'Lassi'}
+{'Panner', 'Tea Powder', 'Lassi'}
+{'Butter', 'Tea Powder'}
+{'Butter', 'Tea Powder', 'Lassi'}
+{'Butter', 'Bread', 'Tea Powder', 'Lassi'}
+{'Bread', 'Yougurt', 'Butter', 'Lassi', 'Tea Powder'}
+{'Bread', 'Sugar', 'Butter', 'Lassi', 'Tea Powder'}
+{'Bread', 'Butter', 'Lassi', 'Milk', 'Tea Powder'}
+{'Bread', 'Butter', 'Coffee Powder', 'Lassi', 'Tea Powder'}
+{'Bread', 'Butter', 'Sweet', 'Lassi', 'Tea Powder'}
+{'Bread', 'Ghee', 'Butter', 'Lassi', 'Tea Powder'}
+{'Butter', 'Yougurt', 'Tea Powder', 'Lassi'}
+{'Yougurt', 'Butter', 'Lassi', 'Milk', 'Tea Powder'}
+{'Ghee', 'Yougurt', 'Butter', 'Lassi', 'Tea Powder'}
+{'Sugar', 'Yougurt', 'Butter', 'Lassi', 'Tea Powder'}
+{'Yougurt', 'Butter', 'Coffee Powder', 'Lassi', 'Tea Powder'}
+{'Yougurt', 'Butter', 'Sweet', 'Lassi', 'Tea Powder'}
+{'Butter', 'Milk', 'Tea Powder', 'Lassi'}
+{'Butter', 'Coffee Powder', 'Lassi', 'Milk', 'Tea Powder'}
+{'Ghee', 'Butter', 'Lassi', 'Milk', 'Tea Powder'}
+{'Sugar', 'Butter', 'Lassi', 'Milk', 'Tea Powder'}
+{'Butter', 'Sweet', 'Lassi', 'Milk', 'Tea Powder'}
+{'Butter', 'Coffee Powder', 'Tea Powder', 'Lassi'}
+{'Butter', 'Coffee Powder', 'Sweet', 'Lassi', 'Tea Powder'}
+{'Ghee', 'Butter', 'Coffee Powder', 'Lassi', 'Tea Powder'}
+{'Sugar', 'Butter', 'Coffee Powder', 'Lassi', 'Tea Powder'}
+{'Butter', 'Sugar', 'Tea Powder', 'Lassi'}
+{'Ghee', 'Sugar', 'Butter', 'Lassi', 'Tea Powder'}
+{'Sugar', 'Butter', 'Sweet', 'Lassi', 'Tea Powder'}
+{'Butter', 'Tea Powder', 'Ghee', 'Lassi'}
+{'Ghee', 'Butter', 'Sweet', 'Lassi', 'Tea Powder'}
+{'Butter', 'Sweet', 'Tea Powder', 'Lassi'}
+{'Butter', 'Milk', 'Tea Powder'}
+{'Butter', 'Milk', 'Tea Powder', 'Bread'}
+{'Bread', 'Butter', 'Sweet', 'Milk', 'Tea Powder'}
+{'Bread', 'Butter', 'Coffee Powder', 'Milk', 'Tea Powder'}
+{'Bread', 'Ghee', 'Butter', 'Milk', 'Tea Powder'}
+{'Bread', 'Yougurt', 'Butter', 'Milk', 'Tea Powder'}
+{'Bread', 'Sugar', 'Butter', 'Milk', 'Tea Powder'}
+{'Butter', 'Milk', 'Yougurt', 'Tea Powder'}
+{'Yougurt', 'Butter', 'Sweet', 'Milk', 'Tea Powder'}
+{'Ghee', 'Yougurt', 'Butter', 'Milk', 'Tea Powder'}
+{'Sugar', 'Yougurt', 'Butter', 'Milk', 'Tea Powder'}
+{'Yougurt', 'Butter', 'Coffee Powder', 'Milk', 'Tea Powder'}
+{'Coffee Powder', 'Butter', 'Milk', 'Tea Powder'}
+{'Ghee', 'Butter', 'Coffee Powder', 'Milk', 'Tea Powder'}
+{'Butter', 'Coffee Powder', 'Sweet', 'Milk', 'Tea Powder'}
+{'Sugar', 'Butter', 'Coffee Powder', 'Milk', 'Tea Powder'}
+{'Butter', 'Milk', 'Tea Powder', 'Ghee'}
+{'Ghee', 'Butter', 'Sweet', 'Milk', 'Tea Powder'}
+{'Ghee', 'Sugar', 'Butter', 'Milk', 'Tea Powder'}
+{'Butter', 'Milk', 'Tea Powder', 'Sweet'}
+{'Sugar', 'Butter', 'Sweet', 'Milk', 'Tea Powder'}
+{'Butter', 'Milk', 'Tea Powder', 'Sugar'}
+{'Butter', 'Tea Powder', 'Bread'}
+{'Butter', 'Sweet', 'Tea Powder', 'Bread'}
+{'Bread', 'Ghee', 'Butter', 'Sweet', 'Tea Powder'}
+{'Bread', 'Butter', 'Coffee Powder', 'Sweet', 'Tea Powder'}
+{'Bread', 'Yougurt', 'Butter', 'Sweet', 'Tea Powder'}
+{'Bread', 'Sugar', 'Butter', 'Sweet', 'Tea Powder'}
+{'Butter', 'Coffee Powder', 'Tea Powder', 'Bread'}
+{'Bread', 'Ghee', 'Butter', 'Coffee Powder', 'Tea Powder'}
+{'Bread', 'Yougurt', 'Butter', 'Coffee Powder', 'Tea Powder'}
+{'Bread', 'Sugar', 'Butter', 'Coffee Powder', 'Tea Powder'}
+{'Butter', 'Sugar', 'Tea Powder', 'Bread'}
+{'Bread', 'Ghee', 'Sugar', 'Butter', 'Tea Powder'}
+{'Bread', 'Sugar', 'Yougurt', 'Butter', 'Tea Powder'}
+{'Butter', 'Tea Powder', 'Ghee', 'Bread'}
+{'Bread', 'Ghee', 'Yougurt', 'Butter', 'Tea Powder'}
+{'Butter', 'Yougurt', 'Tea Powder', 'Bread'}
+{'Butter', 'Coffee Powder', 'Tea Powder'}
+{'Butter', 'Coffee Powder', 'Tea Powder', 'Sweet'}
+{'Ghee', 'Butter', 'Coffee Powder', 'Sweet', 'Tea Powder'}
+{'Yougurt', 'Butter', 'Coffee Powder', 'Sweet', 'Tea Powder'}
+{'Sugar', 'Butter', 'Coffee Powder', 'Sweet', 'Tea Powder'}
+{'Butter', 'Coffee Powder', 'Tea Powder', 'Sugar'}
+{'Ghee', 'Sugar', 'Butter', 'Coffee Powder', 'Tea Powder'}
+{'Sugar', 'Yougurt', 'Butter', 'Coffee Powder', 'Tea Powder'}
+{'Butter', 'Coffee Powder', 'Yougurt', 'Tea Powder'}
+{'Butter', 'Coffee Powder', 'Tea Powder', 'Ghee'}
+{'Ghee', 'Yougurt', 'Butter', 'Coffee Powder', 'Tea Powder'}
+{'Butter', 'Tea Powder', 'Ghee'}
+{'Butter', 'Sweet', 'Tea Powder', 'Ghee'}
+{'Ghee', 'Yougurt', 'Butter', 'Sweet', 'Tea Powder'}
+{'Ghee', 'Sugar', 'Butter', 'Sweet', 'Tea Powder'}
+{'Butter', 'Yougurt', 'Tea Powder', 'Ghee'}
+{'Ghee', 'Sugar', 'Yougurt', 'Butter', 'Tea Powder'}
+{'Butter', 'Tea Powder', 'Ghee', 'Sugar'}
+{'Butter', 'Tea Powder', 'Sugar'}
+{'Butter', 'Yougurt', 'Tea Powder', 'Sugar'}
+{'Sugar', 'Yougurt', 'Butter', 'Sweet', 'Tea Powder'}
+{'Butter', 'Sweet', 'Tea Powder', 'Sugar'}
+{'Butter', 'Yougurt', 'Tea Powder'}
+{'Butter', 'Sweet', 'Yougurt', 'Tea Powder'}
+{'Butter', 'Sweet', 'Tea Powder'}
+{'Tea Powder', 'Ghee'}
+{'Yougurt', 'Tea Powder', 'Ghee'}
+{'Sweet', 'Yougurt', 'Tea Powder', 'Ghee'}
+{'Bread', 'Ghee', 'Yougurt', 'Sweet', 'Tea Powder'}
+{'Ghee', 'Yougurt', 'Coffee Powder', 'Sweet', 'Tea Powder'}
+{'Ghee', 'Sugar', 'Yougurt', 'Sweet', 'Tea Powder'}
+{'Ghee', 'Yougurt', 'Sweet', 'Milk', 'Tea Powder'}
+{'Ghee', 'Yougurt', 'Sweet', 'Lassi', 'Tea Powder'}
+{'Yougurt', 'Tea Powder', 'Ghee', 'Lassi'}
+{'Ghee', 'Yougurt', 'Lassi', 'Milk', 'Tea Powder'}
+{'Bread', 'Ghee', 'Yougurt', 'Lassi', 'Tea Powder'}
+{'Ghee', 'Sugar', 'Yougurt', 'Lassi', 'Tea Powder'}
+{'Ghee', 'Yougurt', 'Coffee Powder', 'Lassi', 'Tea Powder'}
+{'Milk', 'Yougurt', 'Tea Powder', 'Ghee'}
+{'Ghee', 'Yougurt', 'Coffee Powder', 'Milk', 'Tea Powder'}
+{'Ghee', 'Sugar', 'Yougurt', 'Milk', 'Tea Powder'}
+{'Bread', 'Yougurt', 'Tea Powder', 'Ghee'}
+{'Bread', 'Ghee', 'Sugar', 'Yougurt', 'Tea Powder'}
+{'Bread', 'Ghee', 'Yougurt', 'Coffee Powder', 'Tea Powder'}
+{'Yougurt', 'Tea Powder', 'Ghee', 'Sugar'}
+{'Ghee', 'Sugar', 'Yougurt', 'Coffee Powder', 'Tea Powder'}
+{'Coffee Powder', 'Yougurt', 'Tea Powder', 'Ghee'}
+{'Bread', 'Tea Powder', 'Ghee'}
+{'Bread', 'Sweet', 'Tea Powder', 'Ghee'}
+{'Bread', 'Ghee', 'Coffee Powder', 'Sweet', 'Tea Powder'}
+{'Bread', 'Ghee', 'Sugar', 'Sweet', 'Tea Powder'}
+{'Bread', 'Ghee', 'Sweet', 'Milk', 'Tea Powder'}
+{'Bread', 'Ghee', 'Sweet', 'Lassi', 'Tea Powder'}
+{'Bread', 'Milk', 'Tea Powder', 'Ghee'}
+{'Bread', 'Ghee', 'Sugar', 'Milk', 'Tea Powder'}
+{'Bread', 'Ghee', 'Coffee Powder', 'Milk', 'Tea Powder'}
+{'Bread', 'Ghee', 'Lassi', 'Milk', 'Tea Powder'}
+{'Bread', 'Tea Powder', 'Ghee', 'Sugar'}
+{'Bread', 'Ghee', 'Sugar', 'Lassi', 'Tea Powder'}
+{'Bread', 'Ghee', 'Sugar', 'Coffee Powder', 'Tea Powder'}
+{'Bread', 'Coffee Powder', 'Tea Powder', 'Ghee'}
+{'Bread', 'Ghee', 'Coffee Powder', 'Lassi', 'Tea Powder'}
+{'Bread', 'Tea Powder', 'Ghee', 'Lassi'}
+{'Sweet', 'Tea Powder', 'Ghee'}
+{'Coffee Powder', 'Sweet', 'Tea Powder', 'Ghee'}
+{'Ghee', 'Sugar', 'Coffee Powder', 'Sweet', 'Tea Powder'}
+{'Ghee', 'Coffee Powder', 'Sweet', 'Milk', 'Tea Powder'}
+{'Ghee', 'Coffee Powder', 'Sweet', 'Lassi', 'Tea Powder'}
+{'Sweet', 'Tea Powder', 'Ghee', 'Sugar'}
+{'Ghee', 'Sugar', 'Sweet', 'Milk', 'Tea Powder'}
+{'Ghee', 'Sugar', 'Sweet', 'Lassi', 'Tea Powder'}
+{'Sweet', 'Tea Powder', 'Ghee', 'Milk'}
+{'Ghee', 'Sweet', 'Lassi', 'Milk', 'Tea Powder'}
+{'Sweet', 'Tea Powder', 'Ghee', 'Lassi'}
+{'Milk', 'Tea Powder', 'Ghee'}
+{'Coffee Powder', 'Milk', 'Tea Powder', 'Ghee'}
+{'Ghee', 'Coffee Powder', 'Lassi', 'Milk', 'Tea Powder'}
+{'Ghee', 'Sugar', 'Coffee Powder', 'Milk', 'Tea Powder'}
+{'Milk', 'Tea Powder', 'Ghee', 'Sugar'}
+{'Ghee', 'Sugar', 'Lassi', 'Milk', 'Tea Powder'}
+{'Milk', 'Tea Powder', 'Ghee', 'Lassi'}
+{'Tea Powder', 'Ghee', 'Sugar'}
+{'Lassi', 'Tea Powder', 'Ghee', 'Sugar'}
+{'Ghee', 'Sugar', 'Coffee Powder', 'Lassi', 'Tea Powder'}
+{'Coffee Powder', 'Tea Powder', 'Ghee', 'Sugar'}
+{'Tea Powder', 'Ghee', 'Lassi'}
+{'Coffee Powder', 'Tea Powder', 'Ghee', 'Lassi'}
+{'Coffee Powder', 'Tea Powder', 'Ghee'}
+{'Tea Powder', 'Lassi'}
+{'Yougurt', 'Tea Powder', 'Lassi'}
+{'Milk', 'Yougurt', 'Tea Powder', 'Lassi'}
+{'Bread', 'Yougurt', 'Lassi', 'Milk', 'Tea Powder'}
+{'Yougurt', 'Coffee Powder', 'Lassi', 'Milk', 'Tea Powder'}
+{'Yougurt', 'Sweet', 'Lassi', 'Milk', 'Tea Powder'}
+{'Sugar', 'Yougurt', 'Lassi', 'Milk', 'Tea Powder'}
+{'Bread', 'Yougurt', 'Tea Powder', 'Lassi'}
+{'Bread', 'Sugar', 'Yougurt', 'Lassi', 'Tea Powder'}
+{'Bread', 'Yougurt', 'Coffee Powder', 'Lassi', 'Tea Powder'}
+{'Bread', 'Yougurt', 'Sweet', 'Lassi', 'Tea Powder'}
+{'Coffee Powder', 'Yougurt', 'Tea Powder', 'Lassi'}
+{'Yougurt', 'Coffee Powder', 'Sweet', 'Lassi', 'Tea Powder'}
+{'Sugar', 'Yougurt', 'Coffee Powder', 'Lassi', 'Tea Powder'}
+{'Sweet', 'Yougurt', 'Tea Powder', 'Lassi'}
+{'Sugar', 'Yougurt', 'Sweet', 'Lassi', 'Tea Powder'}
+{'Sugar', 'Yougurt', 'Tea Powder', 'Lassi'}
+{'Bread', 'Tea Powder', 'Lassi'}
+{'Bread', 'Sugar', 'Tea Powder', 'Lassi'}
+{'Bread', 'Sugar', 'Lassi', 'Milk', 'Tea Powder'}
+{'Bread', 'Sugar', 'Coffee Powder', 'Lassi', 'Tea Powder'}
+{'Bread', 'Sugar', 'Sweet', 'Lassi', 'Tea Powder'}
+{'Bread', 'Milk', 'Tea Powder', 'Lassi'}
+{'Bread', 'Coffee Powder', 'Lassi', 'Milk', 'Tea Powder'}
+{'Bread', 'Sweet', 'Lassi', 'Milk', 'Tea Powder'}
+{'Bread', 'Coffee Powder', 'Tea Powder', 'Lassi'}
+{'Bread', 'Coffee Powder', 'Sweet', 'Lassi', 'Tea Powder'}
+{'Bread', 'Sweet', 'Tea Powder', 'Lassi'}
+{'Milk', 'Tea Powder', 'Lassi'}
+{'Coffee Powder', 'Milk', 'Tea Powder', 'Lassi'}
+{'Coffee Powder', 'Sweet', 'Lassi', 'Milk', 'Tea Powder'}
+{'Sugar', 'Coffee Powder', 'Lassi', 'Milk', 'Tea Powder'}
+{'Milk', 'Tea Powder', 'Sweet', 'Lassi'}
+{'Sugar', 'Sweet', 'Lassi', 'Milk', 'Tea Powder'}
+{'Sugar', 'Milk', 'Tea Powder', 'Lassi'}
+{'Coffee Powder', 'Tea Powder', 'Lassi'}
+{'Sugar', 'Coffee Powder', 'Tea Powder', 'Lassi'}
+{'Sugar', 'Coffee Powder', 'Sweet', 'Lassi', 'Tea Powder'}
+{'Coffee Powder', 'Tea Powder', 'Sweet', 'Lassi'}
+{'Sugar', 'Tea Powder', 'Lassi'}
+{'Sugar', 'Tea Powder', 'Sweet', 'Lassi'}
+{'Sweet', 'Tea Powder', 'Lassi'}
+{'Milk', 'Tea Powder'}
+{'Coffee Powder', 'Milk', 'Tea Powder'}
+{'Coffee Powder', 'Bread', 'Milk', 'Tea Powder'}
+{'Bread', 'Coffee Powder', 'Sweet', 'Milk', 'Tea Powder'}
+{'Bread', 'Yougurt', 'Coffee Powder', 'Milk', 'Tea Powder'}
+{'Bread', 'Sugar', 'Coffee Powder', 'Milk', 'Tea Powder'}
+{'Coffee Powder', 'Milk', 'Tea Powder', 'Sweet'}
+{'Yougurt', 'Coffee Powder', 'Sweet', 'Milk', 'Tea Powder'}
+{'Sugar', 'Coffee Powder', 'Sweet', 'Milk', 'Tea Powder'}
+{'Coffee Powder', 'Milk', 'Yougurt', 'Tea Powder'}
+{'Sugar', 'Yougurt', 'Coffee Powder', 'Milk', 'Tea Powder'}
+{'Coffee Powder', 'Milk', 'Tea Powder', 'Sugar'}
+{'Bread', 'Milk', 'Tea Powder'}
+{'Bread', 'Milk', 'Yougurt', 'Tea Powder'}
+{'Bread', 'Yougurt', 'Sweet', 'Milk', 'Tea Powder'}
+{'Bread', 'Sugar', 'Yougurt', 'Milk', 'Tea Powder'}
+{'Bread', 'Milk', 'Tea Powder', 'Sweet'}
+{'Bread', 'Sugar', 'Sweet', 'Milk', 'Tea Powder'}
+{'Bread', 'Milk', 'Tea Powder', 'Sugar'}
+{'Milk', 'Yougurt', 'Tea Powder'}
+{'Milk', 'Yougurt', 'Tea Powder', 'Sweet'}
+{'Sugar', 'Yougurt', 'Sweet', 'Milk', 'Tea Powder'}
+{'Milk', 'Yougurt', 'Tea Powder', 'Sugar'}
+{'Milk', 'Tea Powder', 'Sweet'}
+{'Milk', 'Tea Powder', 'Sweet', 'Sugar'}
+{'Milk', 'Tea Powder', 'Sugar'}
+{'Bread', 'Tea Powder'}
+{'Bread', 'Tea Powder', 'Sugar'}
+{'Bread', 'Sweet', 'Tea Powder', 'Sugar'}
+{'Bread', 'Sugar', 'Yougurt', 'Sweet', 'Tea Powder'}
+{'Bread', 'Sugar', 'Coffee Powder', 'Sweet', 'Tea Powder'}
+{'Bread', 'Yougurt', 'Tea Powder', 'Sugar'}
+{'Bread', 'Sugar', 'Yougurt', 'Coffee Powder', 'Tea Powder'}
+{'Bread', 'Coffee Powder', 'Tea Powder', 'Sugar'}
+{'Bread', 'Coffee Powder', 'Tea Powder'}
+{'Bread', 'Coffee Powder', 'Tea Powder', 'Sweet'}
+{'Bread', 'Yougurt', 'Coffee Powder', 'Sweet', 'Tea Powder'}
+{'Bread', 'Coffee Powder', 'Yougurt', 'Tea Powder'}
+{'Bread', 'Sweet', 'Tea Powder'}
+{'Bread', 'Sweet', 'Yougurt', 'Tea Powder'}
+{'Bread', 'Yougurt', 'Tea Powder'}
+{'Coffee Powder', 'Tea Powder'}
+{'Coffee Powder', 'Tea Powder', 'Sweet'}
+{'Coffee Powder', 'Yougurt', 'Tea Powder', 'Sweet'}
+{'Sugar', 'Yougurt', 'Coffee Powder', 'Sweet', 'Tea Powder'}
+{'Coffee Powder', 'Tea Powder', 'Sweet', 'Sugar'}
+{'Coffee Powder', 'Tea Powder', 'Sugar'}
+{'Coffee Powder', 'Yougurt', 'Tea Powder', 'Sugar'}
+{'Coffee Powder', 'Yougurt', 'Tea Powder'}
+{'Tea Powder', 'Sugar'}
+{'Yougurt', 'Tea Powder', 'Sugar'}
+{'Sweet', 'Yougurt', 'Tea Powder', 'Sugar'}
+{'Sweet', 'Tea Powder', 'Sugar'}
+{'Yougurt', 'Tea Powder'}
+{'Sweet', 'Yougurt', 'Tea Powder'}
+{'Sweet', 'Tea Powder'}
+{'Lassi'}
+{'Yougurt', 'Lassi'}
+{'Yougurt', 'Bread', 'Lassi'}
+{'Butter', 'Yougurt', 'Bread', 'Lassi'}
+{'Bread', 'Yougurt', 'Butter', 'Panner', 'Lassi'}
+{'Bread', 'Yougurt', 'Butter', 'Lassi', 'Cheese'}
+{'Bread', 'Ghee', 'Yougurt', 'Butter', 'Lassi'}
+{'Bread', 'Yougurt', 'Butter', 'Sweet', 'Lassi'}
+{'Bread', 'Yougurt', 'Butter', 'Coffee Powder', 'Lassi'}
+{'Bread', 'Yougurt', 'Butter', 'Lassi', 'Milk'}
+{'Bread', 'Sugar', 'Yougurt', 'Butter', 'Lassi'}
+{'Sugar', 'Yougurt', 'Bread', 'Lassi'}
+{'Bread', 'Sugar', 'Yougurt', 'Coffee Powder', 'Lassi'}
+{'Bread', 'Sugar', 'Yougurt', 'Panner', 'Lassi'}
+{'Bread', 'Sugar', 'Yougurt', 'Lassi', 'Milk'}
+{'Bread', 'Ghee', 'Sugar', 'Yougurt', 'Lassi'}
+{'Bread', 'Sugar', 'Yougurt', 'Lassi', 'Cheese'}
+{'Bread', 'Sugar', 'Yougurt', 'Sweet', 'Lassi'}
+{'Panner', 'Yougurt', 'Bread', 'Lassi'}
+{'Bread', 'Yougurt', 'Panner', 'Lassi', 'Milk'}
+{'Bread', 'Ghee', 'Yougurt', 'Panner', 'Lassi'}
+{'Bread', 'Yougurt', 'Sweet', 'Panner', 'Lassi'}
+{'Bread', 'Yougurt', 'Coffee Powder', 'Panner', 'Lassi'}
+{'Bread', 'Yougurt', 'Panner', 'Lassi', 'Cheese'}
+{'Coffee Powder', 'Yougurt', 'Bread', 'Lassi'}
+{'Bread', 'Yougurt', 'Coffee Powder', 'Lassi', 'Cheese'}
+{'Bread', 'Yougurt', 'Coffee Powder', 'Sweet', 'Lassi'}
+{'Bread', 'Ghee', 'Yougurt', 'Coffee Powder', 'Lassi'}
+{'Bread', 'Yougurt', 'Coffee Powder', 'Lassi', 'Milk'}
+{'Yougurt', 'Bread', 'Ghee', 'Lassi'}
+{'Bread', 'Ghee', 'Yougurt', 'Sweet', 'Lassi'}
+{'Bread', 'Ghee', 'Yougurt', 'Lassi', 'Milk'}
+{'Bread', 'Ghee', 'Yougurt', 'Lassi', 'Cheese'}
+{'Milk', 'Yougurt', 'Bread', 'Lassi'}
+{'Bread', 'Yougurt', 'Sweet', 'Lassi', 'Milk'}
+{'Bread', 'Yougurt', 'Lassi', 'Cheese', 'Milk'}
+{'Sweet', 'Yougurt', 'Bread', 'Lassi'}
+{'Bread', 'Yougurt', 'Sweet', 'Lassi', 'Cheese'}
+{'Cheese', 'Yougurt', 'Bread', 'Lassi'}
+{'Yougurt', 'Ghee', 'Lassi'}
+{'Cheese', 'Yougurt', 'Ghee', 'Lassi'}
+{'Ghee', 'Yougurt', 'Butter', 'Lassi', 'Cheese'}
+{'Ghee', 'Yougurt', 'Lassi', 'Cheese', 'Milk'}
+{'Ghee', 'Sugar', 'Yougurt', 'Lassi', 'Cheese'}
+{'Ghee', 'Yougurt', 'Sweet', 'Lassi', 'Cheese'}
+{'Ghee', 'Yougurt', 'Panner', 'Lassi', 'Cheese'}
+{'Ghee', 'Yougurt', 'Coffee Powder', 'Lassi', 'Cheese'}
+{'Sweet', 'Yougurt', 'Ghee', 'Lassi'}
+{'Ghee', 'Sugar', 'Yougurt', 'Sweet', 'Lassi'}
+{'Ghee', 'Yougurt', 'Sweet', 'Lassi', 'Milk'}
+{'Ghee', 'Yougurt', 'Butter', 'Sweet', 'Lassi'}
+{'Ghee', 'Yougurt', 'Coffee Powder', 'Sweet', 'Lassi'}
+{'Ghee', 'Yougurt', 'Sweet', 'Panner', 'Lassi'}
+{'Sugar', 'Yougurt', 'Ghee', 'Lassi'}
+{'Ghee', 'Sugar', 'Yougurt', 'Coffee Powder', 'Lassi'}
+{'Ghee', 'Sugar', 'Yougurt', 'Panner', 'Lassi'}
+{'Ghee', 'Sugar', 'Yougurt', 'Lassi', 'Milk'}
+{'Ghee', 'Sugar', 'Yougurt', 'Butter', 'Lassi'}
+{'Milk', 'Yougurt', 'Ghee', 'Lassi'}
+{'Ghee', 'Yougurt', 'Butter', 'Lassi', 'Milk'}
+{'Ghee', 'Yougurt', 'Panner', 'Lassi', 'Milk'}
+{'Ghee', 'Yougurt', 'Coffee Powder', 'Lassi', 'Milk'}
+{'Yougurt', 'Butter', 'Ghee', 'Lassi'}
+{'Ghee', 'Yougurt', 'Butter', 'Panner', 'Lassi'}
+{'Ghee', 'Yougurt', 'Butter', 'Coffee Powder', 'Lassi'}
+{'Yougurt', 'Panner', 'Ghee', 'Lassi'}
+{'Ghee', 'Yougurt', 'Coffee Powder', 'Panner', 'Lassi'}
+{'Coffee Powder', 'Yougurt', 'Ghee', 'Lassi'}
+{'Yougurt', 'Panner', 'Lassi'}
+{'Sugar', 'Yougurt', 'Panner', 'Lassi'}
+{'Sugar', 'Yougurt', 'Butter', 'Panner', 'Lassi'}
+{'Sugar', 'Yougurt', 'Sweet', 'Panner', 'Lassi'}
+{'Sugar', 'Yougurt', 'Panner', 'Lassi', 'Milk'}
+{'Sugar', 'Yougurt', 'Coffee Powder', 'Panner', 'Lassi'}
+{'Cheese', 'Yougurt', 'Panner', 'Lassi'}
+{'Yougurt', 'Butter', 'Panner', 'Lassi', 'Cheese'}
+{'Yougurt', 'Coffee Powder', 'Panner', 'Lassi', 'Cheese'}
+{'Yougurt', 'Panner', 'Lassi', 'Cheese', 'Milk'}
+{'Yougurt', 'Sweet', 'Panner', 'Lassi', 'Cheese'}
+{'Butter', 'Yougurt', 'Panner', 'Lassi'}
+{'Yougurt', 'Butter', 'Panner', 'Lassi', 'Milk'}
+{'Yougurt', 'Butter', 'Sweet', 'Panner', 'Lassi'}
+{'Yougurt', 'Butter', 'Coffee Powder', 'Panner', 'Lassi'}
+{'Coffee Powder', 'Yougurt', 'Panner', 'Lassi'}
+{'Yougurt', 'Coffee Powder', 'Panner', 'Lassi', 'Milk'}
+{'Yougurt', 'Coffee Powder', 'Sweet', 'Panner', 'Lassi'}
+{'Milk', 'Yougurt', 'Panner', 'Lassi'}
+{'Sweet', 'Yougurt', 'Panner', 'Lassi'}
+{'Yougurt', 'Butter', 'Lassi'}
+{'Cheese', 'Yougurt', 'Butter', 'Lassi'}
+{'Yougurt', 'Butter', 'Lassi', 'Cheese', 'Milk'}
+{'Yougurt', 'Butter', 'Sweet', 'Lassi', 'Cheese'}
+{'Yougurt', 'Butter', 'Coffee Powder', 'Lassi', 'Cheese'}
+{'Sugar', 'Yougurt', 'Butter', 'Lassi'}
+{'Sugar', 'Yougurt', 'Butter', 'Coffee Powder', 'Lassi'}
+{'Sugar', 'Yougurt', 'Butter', 'Sweet', 'Lassi'}
+{'Sugar', 'Yougurt', 'Butter', 'Lassi', 'Milk'}
+{'Milk', 'Yougurt', 'Butter', 'Lassi'}
+{'Yougurt', 'Butter', 'Sweet', 'Lassi', 'Milk'}
+{'Yougurt', 'Butter', 'Coffee Powder', 'Lassi', 'Milk'}
+{'Coffee Powder', 'Yougurt', 'Butter', 'Lassi'}
+{'Sweet', 'Yougurt', 'Butter', 'Lassi'}
+{'Yougurt', 'Butter', 'Coffee Powder', 'Sweet', 'Lassi'}
+{'Coffee Powder', 'Yougurt', 'Lassi'}
+{'Sugar', 'Coffee Powder', 'Yougurt', 'Lassi'}
+{'Sugar', 'Yougurt', 'Coffee Powder', 'Lassi', 'Milk'}
+{'Sugar', 'Yougurt', 'Coffee Powder', 'Sweet', 'Lassi'}
+{'Cheese', 'Coffee Powder', 'Yougurt', 'Lassi'}
+{'Yougurt', 'Coffee Powder', 'Lassi', 'Cheese', 'Milk'}
+{'Yougurt', 'Coffee Powder', 'Sweet', 'Lassi', 'Cheese'}
+{'Coffee Powder', 'Yougurt', 'Lassi', 'Milk'}
+{'Yougurt', 'Coffee Powder', 'Sweet', 'Lassi', 'Milk'}
+{'Coffee Powder', 'Yougurt', 'Sweet', 'Lassi'}
+{'Milk', 'Yougurt', 'Lassi'}
+{'Cheese', 'Milk', 'Yougurt', 'Lassi'}
+{'Sugar', 'Milk', 'Yougurt', 'Lassi'}
+{'Milk', 'Yougurt', 'Sweet', 'Lassi'}
+{'Cheese', 'Yougurt', 'Lassi'}
+{'Cheese', 'Sugar', 'Yougurt', 'Lassi'}
+{'Sugar', 'Yougurt', 'Sweet', 'Lassi', 'Cheese'}
+{'Cheese', 'Sweet', 'Yougurt', 'Lassi'}
+{'Sugar', 'Yougurt', 'Lassi'}
+{'Sugar', 'Yougurt', 'Sweet', 'Lassi'}
+{'Sweet', 'Yougurt', 'Lassi'}
+{'Cheese', 'Lassi'}
+{'Cheese', 'Sugar', 'Lassi'}
+{'Coffee Powder', 'Cheese', 'Sugar', 'Lassi'}
+{'Sugar', 'Butter', 'Coffee Powder', 'Lassi', 'Cheese'}
+{'Sugar', 'Coffee Powder', 'Sweet', 'Lassi', 'Cheese'}
+{'Bread', 'Sugar', 'Coffee Powder', 'Lassi', 'Cheese'}
+{'Sugar', 'Coffee Powder', 'Lassi', 'Cheese', 'Milk'}
+{'Sugar', 'Coffee Powder', 'Panner', 'Lassi', 'Cheese'}
+{'Cheese', 'Sugar', 'Ghee', 'Lassi'}
+{'Ghee', 'Sugar', 'Sweet', 'Lassi', 'Cheese'}
+{'Ghee', 'Sugar', 'Butter', 'Lassi', 'Cheese'}
+{'Bread', 'Ghee', 'Sugar', 'Lassi', 'Cheese'}
+{'Ghee', 'Sugar', 'Lassi', 'Cheese', 'Milk'}
+{'Ghee', 'Sugar', 'Panner', 'Lassi', 'Cheese'}
+{'Cheese', 'Sugar', 'Butter', 'Lassi'}
+{'Bread', 'Sugar', 'Butter', 'Lassi', 'Cheese'}
+{'Sugar', 'Butter', 'Lassi', 'Cheese', 'Milk'}
+{'Sugar', 'Butter', 'Panner', 'Lassi', 'Cheese'}
+{'Sugar', 'Butter', 'Sweet', 'Lassi', 'Cheese'}
+{'Cheese', 'Sugar', 'Lassi', 'Milk'}
+{'Sugar', 'Sweet', 'Lassi', 'Cheese', 'Milk'}
+{'Sugar', 'Panner', 'Lassi', 'Cheese', 'Milk'}
+{'Bread', 'Sugar', 'Lassi', 'Cheese', 'Milk'}
+{'Cheese', 'Sugar', 'Bread', 'Lassi'}
+{'Bread', 'Sugar', 'Sweet', 'Lassi', 'Cheese'}
+{'Bread', 'Sugar', 'Panner', 'Lassi', 'Cheese'}
+{'Cheese', 'Sugar', 'Sweet', 'Lassi'}
+{'Sugar', 'Sweet', 'Panner', 'Lassi', 'Cheese'}
+{'Cheese', 'Sugar', 'Panner', 'Lassi'}
+{'Cheese', 'Butter', 'Lassi'}
+{'Cheese', 'Bread', 'Butter', 'Lassi'}
+{'Bread', 'Butter', 'Sweet', 'Lassi', 'Cheese'}
+{'Bread', 'Ghee', 'Butter', 'Lassi', 'Cheese'}
+{'Bread', 'Butter', 'Panner', 'Lassi', 'Cheese'}
+{'Bread', 'Butter', 'Lassi', 'Cheese', 'Milk'}
+{'Bread', 'Butter', 'Coffee Powder', 'Lassi', 'Cheese'}
+{'Cheese', 'Butter', 'Ghee', 'Lassi'}
+{'Ghee', 'Butter', 'Sweet', 'Lassi', 'Cheese'}
+{'Ghee', 'Butter', 'Lassi', 'Cheese', 'Milk'}
+{'Ghee', 'Butter', 'Coffee Powder', 'Lassi', 'Cheese'}
+{'Ghee', 'Butter', 'Panner', 'Lassi', 'Cheese'}
+{'Cheese', 'Milk', 'Butter', 'Lassi'}
+{'Butter', 'Panner', 'Lassi', 'Cheese', 'Milk'}
+{'Butter', 'Sweet', 'Lassi', 'Cheese', 'Milk'}
+{'Butter', 'Coffee Powder', 'Lassi', 'Cheese', 'Milk'}
+{'Cheese', 'Coffee Powder', 'Butter', 'Lassi'}
+{'Butter', 'Coffee Powder', 'Sweet', 'Lassi', 'Cheese'}
+{'Butter', 'Coffee Powder', 'Panner', 'Lassi', 'Cheese'}
+{'Panner', 'Cheese', 'Butter', 'Lassi'}
+{'Butter', 'Sweet', 'Panner', 'Lassi', 'Cheese'}
+{'Cheese', 'Sweet', 'Butter', 'Lassi'}
+{'Cheese', 'Ghee', 'Lassi'}
+{'Cheese', 'Sweet', 'Ghee', 'Lassi'}
+{'Ghee', 'Coffee Powder', 'Sweet', 'Lassi', 'Cheese'}
+{'Ghee', 'Sweet', 'Lassi', 'Cheese', 'Milk'}
+{'Bread', 'Ghee', 'Sweet', 'Lassi', 'Cheese'}
+{'Ghee', 'Sweet', 'Panner', 'Lassi', 'Cheese'}
+{'Cheese', 'Milk', 'Ghee', 'Lassi'}
+{'Ghee', 'Panner', 'Lassi', 'Cheese', 'Milk'}
+{'Bread', 'Ghee', 'Lassi', 'Cheese', 'Milk'}
+{'Ghee', 'Coffee Powder', 'Lassi', 'Cheese', 'Milk'}
+{'Cheese', 'Panner', 'Ghee', 'Lassi'}
+{'Bread', 'Ghee', 'Panner', 'Lassi', 'Cheese'}
+{'Ghee', 'Coffee Powder', 'Panner', 'Lassi', 'Cheese'}
+{'Cheese', 'Bread', 'Ghee', 'Lassi'}
+{'Bread', 'Ghee', 'Coffee Powder', 'Lassi', 'Cheese'}
+{'Cheese', 'Coffee Powder', 'Ghee', 'Lassi'}
+{'Cheese', 'Milk', 'Lassi'}
+{'Cheese', 'Milk', 'Bread', 'Lassi'}
+{'Bread', 'Sweet', 'Lassi', 'Cheese', 'Milk'}
+{'Bread', 'Panner', 'Lassi', 'Cheese', 'Milk'}
+{'Bread', 'Coffee Powder', 'Lassi', 'Cheese', 'Milk'}
+{'Cheese', 'Milk', 'Panner', 'Lassi'}
+{'Coffee Powder', 'Panner', 'Lassi', 'Cheese', 'Milk'}
+{'Sweet', 'Panner', 'Lassi', 'Cheese', 'Milk'}
+{'Coffee Powder', 'Cheese', 'Milk', 'Lassi'}
+{'Coffee Powder', 'Sweet', 'Lassi', 'Cheese', 'Milk'}
+{'Cheese', 'Milk', 'Sweet', 'Lassi'}
+{'Cheese', 'Coffee Powder', 'Lassi'}
+{'Cheese', 'Coffee Powder', 'Panner', 'Lassi'}
+{'Coffee Powder', 'Sweet', 'Panner', 'Lassi', 'Cheese'}
+{'Bread', 'Coffee Powder', 'Panner', 'Lassi', 'Cheese'}
+{'Cheese', 'Coffee Powder', 'Sweet', 'Lassi'}
+{'Bread', 'Coffee Powder', 'Sweet', 'Lassi', 'Cheese'}
+{'Cheese', 'Coffee Powder', 'Bread', 'Lassi'}
+{'Cheese', 'Panner', 'Lassi'}
+{'Cheese', 'Bread', 'Panner', 'Lassi'}
+{'Bread', 'Sweet', 'Panner', 'Lassi', 'Cheese'}
+{'Cheese', 'Sweet', 'Panner', 'Lassi'}
+{'Cheese', 'Bread', 'Lassi'}
+{'Cheese', 'Sweet', 'Bread', 'Lassi'}
+{'Cheese', 'Sweet', 'Lassi'}
+{'Panner', 'Lassi'}
+{'Butter', 'Panner', 'Lassi'}
+{'Butter', 'Bread', 'Panner', 'Lassi'}
+{'Bread', 'Ghee', 'Butter', 'Panner', 'Lassi'}
+{'Bread', 'Butter', 'Panner', 'Lassi', 'Milk'}
+{'Bread', 'Butter', 'Sweet', 'Panner', 'Lassi'}
+{'Bread', 'Butter', 'Coffee Powder', 'Panner', 'Lassi'}
+{'Bread', 'Sugar', 'Butter', 'Panner', 'Lassi'}
+{'Butter', 'Coffee Powder', 'Panner', 'Lassi'}
+{'Butter', 'Coffee Powder', 'Panner', 'Lassi', 'Milk'}
+{'Butter', 'Coffee Powder', 'Sweet', 'Panner', 'Lassi'}
+{'Sugar', 'Butter', 'Coffee Powder', 'Panner', 'Lassi'}
+{'Ghee', 'Butter', 'Coffee Powder', 'Panner', 'Lassi'}
+{'Butter', 'Milk', 'Panner', 'Lassi'}
+{'Ghee', 'Butter', 'Panner', 'Lassi', 'Milk'}
+{'Sugar', 'Butter', 'Panner', 'Lassi', 'Milk'}
+{'Butter', 'Sweet', 'Panner', 'Lassi', 'Milk'}
+{'Butter', 'Panner', 'Ghee', 'Lassi'}
+{'Ghee', 'Butter', 'Sweet', 'Panner', 'Lassi'}
+{'Ghee', 'Sugar', 'Butter', 'Panner', 'Lassi'}
+{'Butter', 'Sugar', 'Panner', 'Lassi'}
+{'Sugar', 'Butter', 'Sweet', 'Panner', 'Lassi'}
+{'Butter', 'Sweet', 'Panner', 'Lassi'}
+{'Coffee Powder', 'Panner', 'Lassi'}
+{'Coffee Powder', 'Panner', 'Lassi', 'Milk'}
+{'Ghee', 'Coffee Powder', 'Panner', 'Lassi', 'Milk'}
+{'Bread', 'Coffee Powder', 'Panner', 'Lassi', 'Milk'}
+{'Sugar', 'Coffee Powder', 'Panner', 'Lassi', 'Milk'}
+{'Coffee Powder', 'Sweet', 'Panner', 'Lassi', 'Milk'}
+{'Sugar', 'Coffee Powder', 'Panner', 'Lassi'}
+{'Ghee', 'Sugar', 'Coffee Powder', 'Panner', 'Lassi'}
+{'Sugar', 'Coffee Powder', 'Sweet', 'Panner', 'Lassi'}
+{'Bread', 'Sugar', 'Coffee Powder', 'Panner', 'Lassi'}
+{'Coffee Powder', 'Panner', 'Ghee', 'Lassi'}
+{'Ghee', 'Coffee Powder', 'Sweet', 'Panner', 'Lassi'}
+{'Bread', 'Ghee', 'Coffee Powder', 'Panner', 'Lassi'}
+{'Coffee Powder', 'Panner', 'Sweet', 'Lassi'}
+{'Bread', 'Coffee Powder', 'Sweet', 'Panner', 'Lassi'}
+{'Bread', 'Coffee Powder', 'Panner', 'Lassi'}
+{'Milk', 'Panner', 'Lassi'}
+{'Milk', 'Panner', 'Ghee', 'Lassi'}
+{'Ghee', 'Sugar', 'Panner', 'Lassi', 'Milk'}
+{'Bread', 'Ghee', 'Panner', 'Lassi', 'Milk'}
+{'Ghee', 'Sweet', 'Panner', 'Lassi', 'Milk'}
+{'Sugar', 'Milk', 'Panner', 'Lassi'}
+{'Bread', 'Sugar', 'Panner', 'Lassi', 'Milk'}
+{'Sugar', 'Sweet', 'Panner', 'Lassi', 'Milk'}
+{'Bread', 'Milk', 'Panner', 'Lassi'}
+{'Bread', 'Sweet', 'Panner', 'Lassi', 'Milk'}
+{'Milk', 'Panner', 'Sweet', 'Lassi'}
+{'Sugar', 'Panner', 'Lassi'}
+{'Bread', 'Sugar', 'Panner', 'Lassi'}
+{'Bread', 'Sugar', 'Sweet', 'Panner', 'Lassi'}
+{'Bread', 'Ghee', 'Sugar', 'Panner', 'Lassi'}
+{'Sugar', 'Panner', 'Ghee', 'Lassi'}
+{'Ghee', 'Sugar', 'Sweet', 'Panner', 'Lassi'}
+{'Sugar', 'Panner', 'Sweet', 'Lassi'}
+{'Bread', 'Panner', 'Lassi'}
+{'Bread', 'Panner', 'Ghee', 'Lassi'}
+{'Bread', 'Ghee', 'Sweet', 'Panner', 'Lassi'}
+{'Bread', 'Sweet', 'Panner', 'Lassi'}
+{'Panner', 'Ghee', 'Lassi'}
+{'Sweet', 'Panner', 'Ghee', 'Lassi'}
+{'Sweet', 'Panner', 'Lassi'}
+{'Butter', 'Lassi'}
+{'Bread', 'Butter', 'Lassi'}
+{'Bread', 'Butter', 'Ghee', 'Lassi'}
+{'Bread', 'Ghee', 'Butter', 'Sweet', 'Lassi'}
+{'Bread', 'Ghee', 'Butter', 'Coffee Powder', 'Lassi'}
+{'Bread', 'Ghee', 'Butter', 'Lassi', 'Milk'}
+{'Bread', 'Ghee', 'Sugar', 'Butter', 'Lassi'}
+{'Bread', 'Coffee Powder', 'Butter', 'Lassi'}
+{'Bread', 'Butter', 'Coffee Powder', 'Sweet', 'Lassi'}
+{'Bread', 'Sugar', 'Butter', 'Coffee Powder', 'Lassi'}
+{'Bread', 'Butter', 'Coffee Powder', 'Lassi', 'Milk'}
+{'Bread', 'Sweet', 'Butter', 'Lassi'}
+{'Bread', 'Butter', 'Sweet', 'Lassi', 'Milk'}
+{'Bread', 'Sugar', 'Butter', 'Sweet', 'Lassi'}
+{'Bread', 'Milk', 'Butter', 'Lassi'}
+{'Bread', 'Sugar', 'Butter', 'Lassi', 'Milk'}
+{'Bread', 'Sugar', 'Butter', 'Lassi'}
+{'Coffee Powder', 'Butter', 'Lassi'}
+{'Sugar', 'Coffee Powder', 'Butter', 'Lassi'}
+{'Ghee', 'Sugar', 'Butter', 'Coffee Powder', 'Lassi'}
+{'Sugar', 'Butter', 'Coffee Powder', 'Sweet', 'Lassi'}
+{'Sugar', 'Butter', 'Coffee Powder', 'Lassi', 'Milk'}
+{'Coffee Powder', 'Butter', 'Lassi', 'Milk'}
+{'Ghee', 'Butter', 'Coffee Powder', 'Lassi', 'Milk'}
+{'Coffee Powder', 'Butter', 'Sweet', 'Lassi'}
+{'Ghee', 'Butter', 'Coffee Powder', 'Sweet', 'Lassi'}
+{'Butter', 'Coffee Powder', 'Sweet', 'Lassi', 'Milk'}
+{'Coffee Powder', 'Butter', 'Ghee', 'Lassi'}
+{'Milk', 'Butter', 'Lassi'}
+{'Milk', 'Butter', 'Ghee', 'Lassi'}
+{'Ghee', 'Butter', 'Sweet', 'Lassi', 'Milk'}
+{'Ghee', 'Sugar', 'Butter', 'Lassi', 'Milk'}
+{'Sugar', 'Milk', 'Butter', 'Lassi'}
+{'Sugar', 'Butter', 'Sweet', 'Lassi', 'Milk'}
+{'Milk', 'Butter', 'Sweet', 'Lassi'}
+{'Sugar', 'Butter', 'Lassi'}
+{'Sugar', 'Butter', 'Ghee', 'Lassi'}
+{'Ghee', 'Sugar', 'Butter', 'Sweet', 'Lassi'}
+{'Sugar', 'Butter', 'Sweet', 'Lassi'}
+{'Butter', 'Ghee', 'Lassi'}
+{'Sweet', 'Butter', 'Ghee', 'Lassi'}
+{'Sweet', 'Butter', 'Lassi'}
+{'Sugar', 'Lassi'}
+{'Sugar', 'Bread', 'Lassi'}
+{'Coffee Powder', 'Sugar', 'Bread', 'Lassi'}
+{'Bread', 'Sugar', 'Coffee Powder', 'Lassi', 'Milk'}
+{'Bread', 'Sugar', 'Coffee Powder', 'Sweet', 'Lassi'}
+{'Bread', 'Ghee', 'Sugar', 'Coffee Powder', 'Lassi'}
+{'Sugar', 'Bread', 'Ghee', 'Lassi'}
+{'Bread', 'Ghee', 'Sugar', 'Sweet', 'Lassi'}
+{'Sugar', 'Bread', 'Lassi', 'Milk'}
+{'Bread', 'Sugar', 'Sweet', 'Lassi', 'Milk'}
+{'Sugar', 'Bread', 'Sweet', 'Lassi'}
+{'Coffee Powder', 'Sugar', 'Lassi'}
+{'Coffee Powder', 'Sugar', 'Ghee', 'Lassi'}
+{'Ghee', 'Sugar', 'Coffee Powder', 'Sweet', 'Lassi'}
+{'Ghee', 'Sugar', 'Coffee Powder', 'Lassi', 'Milk'}
+{'Coffee Powder', 'Sugar', 'Lassi', 'Milk'}
+{'Sugar', 'Coffee Powder', 'Sweet', 'Lassi', 'Milk'}
+{'Coffee Powder', 'Sugar', 'Sweet', 'Lassi'}
+{'Sugar', 'Ghee', 'Lassi'}
+{'Sugar', 'Ghee', 'Lassi', 'Sweet'}
+{'Ghee', 'Sugar', 'Sweet', 'Lassi', 'Milk'}
+{'Sugar', 'Ghee', 'Lassi', 'Milk'}
+{'Sugar', 'Lassi', 'Milk'}
+{'Sugar', 'Sweet', 'Lassi', 'Milk'}
+{'Sugar', 'Sweet', 'Lassi'}
+{'Bread', 'Lassi'}
+{'Milk', 'Bread', 'Lassi'}
+{'Coffee Powder', 'Milk', 'Bread', 'Lassi'}
+{'Bread', 'Coffee Powder', 'Sweet', 'Lassi', 'Milk'}
+{'Bread', 'Ghee', 'Coffee Powder', 'Lassi', 'Milk'}
+{'Milk', 'Bread', 'Ghee', 'Lassi'}
+{'Bread', 'Ghee', 'Sweet', 'Lassi', 'Milk'}
+{'Milk', 'Bread', 'Sweet', 'Lassi'}
+{'Coffee Powder', 'Bread', 'Lassi'}
+{'Coffee Powder', 'Bread', 'Ghee', 'Lassi'}
+{'Bread', 'Ghee', 'Coffee Powder', 'Sweet', 'Lassi'}
+{'Coffee Powder', 'Bread', 'Sweet', 'Lassi'}
+{'Bread', 'Ghee', 'Lassi'}
+{'Sweet', 'Bread', 'Ghee', 'Lassi'}
+{'Sweet', 'Bread', 'Lassi'}
+{'Ghee', 'Lassi'}
+{'Milk', 'Ghee', 'Lassi'}
+{'Milk', 'Ghee', 'Lassi', 'Sweet'}
+{'Ghee', 'Coffee Powder', 'Sweet', 'Lassi', 'Milk'}
+{'Coffee Powder', 'Milk', 'Ghee', 'Lassi'}
+{'Sweet', 'Ghee', 'Lassi'}
+{'Coffee Powder', 'Sweet', 'Ghee', 'Lassi'}
+{'Coffee Powder', 'Ghee', 'Lassi'}
+{'Coffee Powder', 'Lassi'}
+{'Coffee Powder', 'Lassi', 'Milk'}
+{'Coffee Powder', 'Sweet', 'Lassi', 'Milk'}
+{'Coffee Powder', 'Sweet', 'Lassi'}
+{'Milk', 'Lassi'}
+{'Milk', 'Sweet', 'Lassi'}
+{'Sweet', 'Lassi'}
+{'Panner'}
+{'Coffee Powder', 'Panner'}
+{'Butter', 'Coffee Powder', 'Panner'}
+{'Butter', 'Coffee Powder', 'Panner', 'Milk'}
+{'Butter', 'Coffee Powder', 'Sweet', 'Panner', 'Milk'}
+{'Bread', 'Butter', 'Coffee Powder', 'Panner', 'Milk'}
+{'Ghee', 'Butter', 'Coffee Powder', 'Panner', 'Milk'}
+{'Butter', 'Coffee Powder', 'Panner', 'Cheese', 'Milk'}
+{'Yougurt', 'Butter', 'Coffee Powder', 'Panner', 'Milk'}
+{'Sugar', 'Butter', 'Coffee Powder', 'Panner', 'Milk'}
+{'Butter', 'Coffee Powder', 'Panner', 'Bread'}
+{'Bread', 'Butter', 'Coffee Powder', 'Sweet', 'Panner'}
+{'Bread', 'Ghee', 'Butter', 'Coffee Powder', 'Panner'}
+{'Bread', 'Butter', 'Coffee Powder', 'Panner', 'Cheese'}
+{'Bread', 'Yougurt', 'Butter', 'Coffee Powder', 'Panner'}
+{'Bread', 'Sugar', 'Butter', 'Coffee Powder', 'Panner'}
+{'Butter', 'Coffee Powder', 'Panner', 'Cheese'}
+{'Ghee', 'Butter', 'Coffee Powder', 'Panner', 'Cheese'}
+{'Butter', 'Coffee Powder', 'Sweet', 'Panner', 'Cheese'}
+{'Sugar', 'Butter', 'Coffee Powder', 'Panner', 'Cheese'}
+{'Yougurt', 'Butter', 'Coffee Powder', 'Panner', 'Cheese'}
+{'Butter', 'Coffee Powder', 'Panner', 'Sweet'}
+{'Ghee', 'Butter', 'Coffee Powder', 'Sweet', 'Panner'}
+{'Sugar', 'Butter', 'Coffee Powder', 'Sweet', 'Panner'}
+{'Yougurt', 'Butter', 'Coffee Powder', 'Sweet', 'Panner'}
+{'Butter', 'Coffee Powder', 'Panner', 'Sugar'}
+{'Ghee', 'Sugar', 'Butter', 'Coffee Powder', 'Panner'}
+{'Sugar', 'Yougurt', 'Butter', 'Coffee Powder', 'Panner'}
+{'Butter', 'Coffee Powder', 'Yougurt', 'Panner'}
+{'Ghee', 'Yougurt', 'Butter', 'Coffee Powder', 'Panner'}
+{'Butter', 'Coffee Powder', 'Panner', 'Ghee'}
+{'Coffee Powder', 'Panner', 'Milk'}
+{'Coffee Powder', 'Panner', 'Ghee', 'Milk'}
+{'Ghee', 'Sweet', 'Coffee Powder', 'Panner', 'Milk'}
+{'Ghee', 'Sugar', 'Coffee Powder', 'Panner', 'Milk'}
+{'Bread', 'Ghee', 'Coffee Powder', 'Panner', 'Milk'}
+{'Ghee', 'Yougurt', 'Coffee Powder', 'Panner', 'Milk'}
+{'Ghee', 'Coffee Powder', 'Panner', 'Cheese', 'Milk'}
+{'Cheese', 'Coffee Powder', 'Panner', 'Milk'}
+{'Coffee Powder', 'Sweet', 'Panner', 'Cheese', 'Milk'}
+{'Yougurt', 'Coffee Powder', 'Panner', 'Cheese', 'Milk'}
+{'Sugar', 'Coffee Powder', 'Panner', 'Cheese', 'Milk'}
+{'Bread', 'Coffee Powder', 'Panner', 'Cheese', 'Milk'}
+{'Coffee Powder', 'Panner', 'Sweet', 'Milk'}
+{'Sugar', 'Coffee Powder', 'Sweet', 'Panner', 'Milk'}
+{'Yougurt', 'Coffee Powder', 'Sweet', 'Panner', 'Milk'}
+{'Bread', 'Coffee Powder', 'Sweet', 'Panner', 'Milk'}
+{'Coffee Powder', 'Yougurt', 'Panner', 'Milk'}
+{'Sugar', 'Yougurt', 'Coffee Powder', 'Panner', 'Milk'}
+{'Bread', 'Yougurt', 'Coffee Powder', 'Panner', 'Milk'}
+{'Coffee Powder', 'Panner', 'Sugar', 'Milk'}
+{'Bread', 'Sugar', 'Coffee Powder', 'Panner', 'Milk'}
+{'Bread', 'Coffee Powder', 'Panner', 'Milk'}
+{'Cheese', 'Coffee Powder', 'Panner'}
+{'Cheese', 'Coffee Powder', 'Panner', 'Sweet'}
+{'Sugar', 'Coffee Powder', 'Sweet', 'Panner', 'Cheese'}
+{'Ghee', 'Coffee Powder', 'Sweet', 'Panner', 'Cheese'}
+{'Bread', 'Coffee Powder', 'Sweet', 'Panner', 'Cheese'}
+{'Yougurt', 'Coffee Powder', 'Sweet', 'Panner', 'Cheese'}
+{'Cheese', 'Coffee Powder', 'Panner', 'Sugar'}
+{'Ghee', 'Sugar', 'Coffee Powder', 'Panner', 'Cheese'}
+{'Sugar', 'Yougurt', 'Coffee Powder', 'Panner', 'Cheese'}
+{'Bread', 'Sugar', 'Coffee Powder', 'Panner', 'Cheese'}
+{'Cheese', 'Coffee Powder', 'Panner', 'Ghee'}
+{'Ghee', 'Yougurt', 'Coffee Powder', 'Panner', 'Cheese'}
+{'Bread', 'Ghee', 'Coffee Powder', 'Panner', 'Cheese'}
+{'Cheese', 'Coffee Powder', 'Yougurt', 'Panner'}
+{'Bread', 'Yougurt', 'Coffee Powder', 'Panner', 'Cheese'}
+{'Cheese', 'Coffee Powder', 'Panner', 'Bread'}
+{'Coffee Powder', 'Panner', 'Sweet'}
+{'Coffee Powder', 'Panner', 'Sweet', 'Sugar'}
+{'Ghee', 'Sugar', 'Coffee Powder', 'Sweet', 'Panner'}
+{'Sugar', 'Yougurt', 'Coffee Powder', 'Sweet', 'Panner'}
+{'Bread', 'Sugar', 'Coffee Powder', 'Sweet', 'Panner'}
+{'Ghee', 'Coffee Powder', 'Panner', 'Sweet'}
+{'Ghee', 'Yougurt', 'Coffee Powder', 'Sweet', 'Panner'}
+{'Bread', 'Ghee', 'Coffee Powder', 'Sweet', 'Panner'}
+{'Coffee Powder', 'Yougurt', 'Panner', 'Sweet'}
+{'Bread', 'Yougurt', 'Coffee Powder', 'Sweet', 'Panner'}
+{'Bread', 'Coffee Powder', 'Panner', 'Sweet'}
+{'Coffee Powder', 'Panner', 'Sugar'}
+{'Coffee Powder', 'Panner', 'Ghee', 'Sugar'}
+{'Ghee', 'Sugar', 'Yougurt', 'Coffee Powder', 'Panner'}
+{'Bread', 'Ghee', 'Sugar', 'Coffee Powder', 'Panner'}
+{'Coffee Powder', 'Yougurt', 'Panner', 'Sugar'}
+{'Bread', 'Sugar', 'Yougurt', 'Coffee Powder', 'Panner'}
+{'Bread', 'Coffee Powder', 'Panner', 'Sugar'}
+{'Coffee Powder', 'Yougurt', 'Panner'}
+{'Bread', 'Coffee Powder', 'Yougurt', 'Panner'}
+{'Bread', 'Ghee', 'Yougurt', 'Coffee Powder', 'Panner'}
+{'Coffee Powder', 'Yougurt', 'Panner', 'Ghee'}
+{'Coffee Powder', 'Panner', 'Ghee'}
+{'Bread', 'Coffee Powder', 'Panner', 'Ghee'}
+{'Bread', 'Coffee Powder', 'Panner'}
+{'Butter', 'Panner'}
+{'Butter', 'Panner', 'Sugar'}
+{'Butter', 'Sweet', 'Panner', 'Sugar'}
+{'Sugar', 'Butter', 'Sweet', 'Panner', 'Cheese'}
+{'Ghee', 'Sugar', 'Butter', 'Sweet', 'Panner'}
+{'Bread', 'Sugar', 'Butter', 'Sweet', 'Panner'}
+{'Sugar', 'Yougurt', 'Butter', 'Sweet', 'Panner'}
+{'Butter', 'Cheese', 'Panner', 'Sugar'}
+{'Ghee', 'Sugar', 'Butter', 'Panner', 'Cheese'}
+{'Bread', 'Sugar', 'Butter', 'Panner', 'Cheese'}
+{'Sugar', 'Yougurt', 'Butter', 'Panner', 'Cheese'}
+{'Butter', 'Bread', 'Panner', 'Sugar'}
+{'Bread', 'Sugar', 'Yougurt', 'Butter', 'Panner'}
+{'Bread', 'Ghee', 'Sugar', 'Butter', 'Panner'}
+{'Butter', 'Panner', 'Ghee', 'Sugar'}
+{'Ghee', 'Sugar', 'Yougurt', 'Butter', 'Panner'}
+{'Butter', 'Yougurt', 'Panner', 'Sugar'}
+{'Butter', 'Sweet', 'Panner'}
+{'Butter', 'Sweet', 'Panner', 'Ghee'}
+{'Ghee', 'Butter', 'Sweet', 'Panner', 'Cheese'}
+{'Bread', 'Ghee', 'Butter', 'Sweet', 'Panner'}
+{'Ghee', 'Yougurt', 'Butter', 'Sweet', 'Panner'}
+{'Butter', 'Sweet', 'Panner', 'Bread'}
+{'Bread', 'Butter', 'Sweet', 'Panner', 'Cheese'}
+{'Bread', 'Yougurt', 'Butter', 'Sweet', 'Panner'}
+{'Butter', 'Sweet', 'Panner', 'Cheese'}
+{'Yougurt', 'Butter', 'Sweet', 'Panner', 'Cheese'}
+{'Butter', 'Sweet', 'Yougurt', 'Panner'}
+{'Butter', 'Cheese', 'Panner'}
+{'Butter', 'Cheese', 'Panner', 'Ghee'}
+{'Bread', 'Ghee', 'Butter', 'Panner', 'Cheese'}
+{'Ghee', 'Yougurt', 'Butter', 'Panner', 'Cheese'}
+{'Butter', 'Cheese', 'Panner', 'Bread'}
+{'Bread', 'Yougurt', 'Butter', 'Panner', 'Cheese'}
+{'Butter', 'Cheese', 'Yougurt', 'Panner'}
+{'Butter', 'Panner', 'Bread'}
+{'Butter', 'Yougurt', 'Panner', 'Bread'}
+{'Bread', 'Ghee', 'Yougurt', 'Butter', 'Panner'}
+{'Butter', 'Panner', 'Ghee', 'Bread'}
+{'Butter', 'Yougurt', 'Panner'}
+{'Butter', 'Yougurt', 'Panner', 'Ghee'}
+{'Butter', 'Panner', 'Ghee'}
+{'Milk', 'Panner'}
+{'Butter', 'Milk', 'Panner'}
+{'Butter', 'Milk', 'Panner', 'Cheese'}
+{'Ghee', 'Butter', 'Panner', 'Cheese', 'Milk'}
+{'Sugar', 'Butter', 'Panner', 'Cheese', 'Milk'}
+{'Butter', 'Sweet', 'Panner', 'Cheese', 'Milk'}
+{'Bread', 'Butter', 'Panner', 'Cheese', 'Milk'}
+{'Yougurt', 'Butter', 'Panner', 'Cheese', 'Milk'}
+{'Butter', 'Milk', 'Panner', 'Ghee'}
+{'Bread', 'Ghee', 'Butter', 'Panner', 'Milk'}
+{'Ghee', 'Butter', 'Sweet', 'Panner', 'Milk'}
+{'Ghee', 'Sugar', 'Butter', 'Panner', 'Milk'}
+{'Ghee', 'Yougurt', 'Butter', 'Panner', 'Milk'}
+{'Butter', 'Milk', 'Panner', 'Bread'}
+{'Bread', 'Sugar', 'Butter', 'Panner', 'Milk'}
+{'Bread', 'Yougurt', 'Butter', 'Panner', 'Milk'}
+{'Bread', 'Butter', 'Sweet', 'Panner', 'Milk'}
+{'Butter', 'Milk', 'Panner', 'Sugar'}
+{'Sugar', 'Yougurt', 'Butter', 'Panner', 'Milk'}
+{'Sugar', 'Butter', 'Sweet', 'Panner', 'Milk'}
+{'Butter', 'Milk', 'Yougurt', 'Panner'}
+{'Yougurt', 'Butter', 'Sweet', 'Panner', 'Milk'}
+{'Butter', 'Milk', 'Panner', 'Sweet'}
+{'Milk', 'Panner', 'Sweet'}
+{'Milk', 'Panner', 'Sweet', 'Sugar'}
+{'Ghee', 'Sugar', 'Sweet', 'Panner', 'Milk'}
+{'Sugar', 'Yougurt', 'Sweet', 'Panner', 'Milk'}
+{'Sugar', 'Sweet', 'Panner', 'Cheese', 'Milk'}
+{'Bread', 'Sugar', 'Sweet', 'Panner', 'Milk'}
+{'Milk', 'Yougurt', 'Panner', 'Sweet'}
+{'Ghee', 'Yougurt', 'Sweet', 'Panner', 'Milk'}
+{'Bread', 'Yougurt', 'Sweet', 'Panner', 'Milk'}
+{'Yougurt', 'Sweet', 'Panner', 'Cheese', 'Milk'}
+{'Ghee', 'Milk', 'Panner', 'Sweet'}
+{'Ghee', 'Sweet', 'Panner', 'Cheese', 'Milk'}
+{'Bread', 'Ghee', 'Sweet', 'Panner', 'Milk'}
+{'Cheese', 'Milk', 'Panner', 'Sweet'}
+{'Bread', 'Sweet', 'Panner', 'Cheese', 'Milk'}
+{'Bread', 'Milk', 'Panner', 'Sweet'}
+{'Milk', 'Panner', 'Ghee'}
+{'Milk', 'Panner', 'Ghee', 'Sugar'}
+{'Ghee', 'Sugar', 'Panner', 'Cheese', 'Milk'}
+{'Ghee', 'Sugar', 'Yougurt', 'Panner', 'Milk'}
+{'Bread', 'Ghee', 'Sugar', 'Panner', 'Milk'}
+{'Cheese', 'Milk', 'Panner', 'Ghee'}
+{'Bread', 'Ghee', 'Panner', 'Cheese', 'Milk'}
+{'Ghee', 'Yougurt', 'Panner', 'Cheese', 'Milk'}
+{'Milk', 'Yougurt', 'Panner', 'Ghee'}
+{'Bread', 'Ghee', 'Yougurt', 'Panner', 'Milk'}
+{'Bread', 'Milk', 'Panner', 'Ghee'}
+{'Milk', 'Panner', 'Sugar'}
+{'Milk', 'Yougurt', 'Panner', 'Sugar'}
+{'Bread', 'Sugar', 'Yougurt', 'Panner', 'Milk'}
+{'Sugar', 'Yougurt', 'Panner', 'Cheese', 'Milk'}
+{'Cheese', 'Milk', 'Panner', 'Sugar'}
+{'Bread', 'Sugar', 'Panner', 'Cheese', 'Milk'}
+{'Bread', 'Milk', 'Panner', 'Sugar'}
+{'Cheese', 'Milk', 'Panner'}
+{'Cheese', 'Milk', 'Yougurt', 'Panner'}
+{'Bread', 'Yougurt', 'Panner', 'Cheese', 'Milk'}
+{'Cheese', 'Milk', 'Panner', 'Bread'}
+{'Milk', 'Yougurt', 'Panner'}
+{'Bread', 'Milk', 'Yougurt', 'Panner'}
+{'Bread', 'Milk', 'Panner'}
+{'Cheese', 'Panner'}
+{'Cheese', 'Panner', 'Sugar'}
+{'Cheese', 'Sweet', 'Panner', 'Sugar'}
+{'Cheese', 'Panner', 'Ghee', 'Sugar'}
+{'Bread', 'Ghee', 'Sugar', 'Panner', 'Cheese'}
+{'Ghee', 'Sugar', 'Yougurt', 'Panner', 'Cheese'}
+{'Cheese', 'Yougurt', 'Panner', 'Sugar'}
+{'Bread', 'Sugar', 'Yougurt', 'Panner', 'Cheese'}
+{'Cheese', 'Bread', 'Panner', 'Sugar'}
+{'Cheese', 'Sweet', 'Panner'}
+{'Cheese', 'Sweet', 'Panner', 'Ghee'}
+{'Bread', 'Ghee', 'Sweet', 'Panner', 'Cheese'}
+{'Ghee', 'Yougurt', 'Sweet', 'Panner', 'Cheese'}
+{'Cheese', 'Sweet', 'Panner', 'Bread'}
+{'Bread', 'Yougurt', 'Sweet', 'Panner', 'Cheese'}
+{'Cheese', 'Sweet', 'Yougurt', 'Panner'}
+{'Cheese', 'Panner', 'Ghee'}
+{'Cheese', 'Panner', 'Ghee', 'Bread'}
+{'Bread', 'Ghee', 'Yougurt', 'Panner', 'Cheese'}
+{'Cheese', 'Yougurt', 'Panner', 'Ghee'}
+{'Cheese', 'Yougurt', 'Panner'}
+{'Cheese', 'Yougurt', 'Panner', 'Bread'}
+{'Cheese', 'Panner', 'Bread'}
+{'Yougurt', 'Panner'}
+{'Sweet', 'Yougurt', 'Panner'}
+{'Sweet', 'Yougurt', 'Panner', 'Ghee'}
+{'Bread', 'Ghee', 'Yougurt', 'Sweet', 'Panner'}
+{'Bread', 'Sweet', 'Yougurt', 'Panner'}
+{'Yougurt', 'Panner', 'Sugar'}
+{'Bread', 'Yougurt', 'Panner', 'Sugar'}
+{'Bread', 'Ghee', 'Sugar', 'Yougurt', 'Panner'}
+{'Yougurt', 'Panner', 'Ghee', 'Sugar'}
+{'Bread', 'Yougurt', 'Panner'}
+{'Bread', 'Yougurt', 'Panner', 'Ghee'}
+{'Yougurt', 'Panner', 'Ghee'}
+{'Sweet', 'Panner'}
+{'Sweet', 'Panner', 'Sugar'}
+{'Sweet', 'Panner', 'Ghee', 'Sugar'}
+{'Bread', 'Ghee', 'Sugar', 'Sweet', 'Panner'}
+{'Bread', 'Sweet', 'Panner', 'Sugar'}
+{'Sweet', 'Panner', 'Ghee'}
+{'Bread', 'Sweet', 'Panner', 'Ghee'}
+{'Bread', 'Sweet', 'Panner'}
+{'Panner', 'Sugar'}
+{'Sweet', 'Panner', 'Sugar'}
+{'Panner', 'Ghee', 'Sugar'}
+{'Bread', 'Panner', 'Ghee', 'Sugar'}
+{'Bread', 'Panner', 'Sugar'}
+{'Panner', 'Ghee'}
+{'Bread', 'Panner', 'Ghee'}
+{'Bread', 'Panner'}
+{'Cheese'}
+{'Cheese', 'Sugar'}
+{'Cheese', 'Ghee', 'Sugar'}
+{'Cheese', 'Sweet', 'Ghee', 'Sugar'}
+{'Ghee', 'Sugar', 'Butter', 'Sweet', 'Cheese'}
+{'Ghee', 'Sugar', 'Coffee Powder', 'Sweet', 'Cheese'}
+{'Ghee', 'Sugar', 'Sweet', 'Cheese', 'Milk'}
+{'Bread', 'Ghee', 'Sugar', 'Sweet', 'Cheese'}
+{'Ghee', 'Sugar', 'Yougurt', 'Sweet', 'Cheese'}
+{'Cheese', 'Coffee Powder', 'Ghee', 'Sugar'}
+{'Ghee', 'Sugar', 'Butter', 'Coffee Powder', 'Cheese'}
+{'Ghee', 'Sugar', 'Coffee Powder', 'Cheese', 'Milk'}
+{'Bread', 'Ghee', 'Sugar', 'Coffee Powder', 'Cheese'}
+{'Ghee', 'Sugar', 'Yougurt', 'Coffee Powder', 'Cheese'}
+{'Cheese', 'Butter', 'Ghee', 'Sugar'}
+{'Bread', 'Ghee', 'Sugar', 'Butter', 'Cheese'}
+{'Ghee', 'Sugar', 'Yougurt', 'Butter', 'Cheese'}
+{'Ghee', 'Sugar', 'Butter', 'Cheese', 'Milk'}
+{'Cheese', 'Bread', 'Ghee', 'Sugar'}
+{'Bread', 'Ghee', 'Sugar', 'Cheese', 'Milk'}
+{'Bread', 'Ghee', 'Sugar', 'Yougurt', 'Cheese'}
+{'Cheese', 'Milk', 'Ghee', 'Sugar'}
+{'Ghee', 'Sugar', 'Yougurt', 'Cheese', 'Milk'}
+{'Cheese', 'Yougurt', 'Ghee', 'Sugar'}
+{'Cheese', 'Sweet', 'Sugar'}
+{'Coffee Powder', 'Cheese', 'Sweet', 'Sugar'}
+{'Bread', 'Sugar', 'Coffee Powder', 'Sweet', 'Cheese'}
+{'Sugar', 'Yougurt', 'Coffee Powder', 'Sweet', 'Cheese'}
+{'Sugar', 'Butter', 'Coffee Powder', 'Sweet', 'Cheese'}
+{'Sugar', 'Coffee Powder', 'Sweet', 'Cheese', 'Milk'}
+{'Cheese', 'Sweet', 'Bread', 'Sugar'}
+{'Bread', 'Sugar', 'Yougurt', 'Sweet', 'Cheese'}
+{'Bread', 'Sugar', 'Butter', 'Sweet', 'Cheese'}
+{'Bread', 'Sugar', 'Sweet', 'Cheese', 'Milk'}
+{'Cheese', 'Sweet', 'Yougurt', 'Sugar'}
+{'Sugar', 'Yougurt', 'Butter', 'Sweet', 'Cheese'}
+{'Sugar', 'Yougurt', 'Sweet', 'Cheese', 'Milk'}
+{'Cheese', 'Sweet', 'Butter', 'Sugar'}
+{'Sugar', 'Butter', 'Sweet', 'Cheese', 'Milk'}
+{'Cheese', 'Sweet', 'Sugar', 'Milk'}
+{'Cheese', 'Coffee Powder', 'Sugar'}
+{'Cheese', 'Coffee Powder', 'Butter', 'Sugar'}
+{'Bread', 'Sugar', 'Butter', 'Coffee Powder', 'Cheese'}
+{'Sugar', 'Yougurt', 'Butter', 'Coffee Powder', 'Cheese'}
+{'Sugar', 'Butter', 'Coffee Powder', 'Cheese', 'Milk'}
+{'Cheese', 'Coffee Powder', 'Yougurt', 'Sugar'}
+{'Bread', 'Sugar', 'Yougurt', 'Coffee Powder', 'Cheese'}
+{'Sugar', 'Yougurt', 'Coffee Powder', 'Cheese', 'Milk'}
+{'Cheese', 'Coffee Powder', 'Bread', 'Sugar'}
+{'Bread', 'Sugar', 'Coffee Powder', 'Cheese', 'Milk'}
+{'Cheese', 'Coffee Powder', 'Sugar', 'Milk'}
+{'Cheese', 'Bread', 'Sugar'}
+{'Cheese', 'Bread', 'Sugar', 'Butter'}
+{'Bread', 'Sugar', 'Yougurt', 'Butter', 'Cheese'}
+{'Bread', 'Sugar', 'Butter', 'Cheese', 'Milk'}
+{'Cheese', 'Yougurt', 'Bread', 'Sugar'}
+{'Bread', 'Sugar', 'Yougurt', 'Cheese', 'Milk'}
+{'Cheese', 'Milk', 'Bread', 'Sugar'}
+{'Cheese', 'Butter', 'Sugar'}
+{'Cheese', 'Yougurt', 'Butter', 'Sugar'}
+{'Sugar', 'Yougurt', 'Butter', 'Cheese', 'Milk'}
+{'Cheese', 'Milk', 'Butter', 'Sugar'}
+{'Cheese', 'Yougurt', 'Sugar'}
+{'Cheese', 'Milk', 'Yougurt', 'Sugar'}
+{'Cheese', 'Milk', 'Sugar'}
+{'Cheese', 'Milk'}
+{'Cheese', 'Milk', 'Butter'}
+{'Cheese', 'Milk', 'Butter', 'Ghee'}
+{'Ghee', 'Butter', 'Sweet', 'Cheese', 'Milk'}
+{'Ghee', 'Yougurt', 'Butter', 'Cheese', 'Milk'}
+{'Ghee', 'Butter', 'Coffee Powder', 'Cheese', 'Milk'}
+{'Bread', 'Ghee', 'Butter', 'Cheese', 'Milk'}
+{'Cheese', 'Milk', 'Butter', 'Sweet'}
+{'Butter', 'Coffee Powder', 'Sweet', 'Cheese', 'Milk'}
+{'Yougurt', 'Butter', 'Sweet', 'Cheese', 'Milk'}
+{'Bread', 'Butter', 'Sweet', 'Cheese', 'Milk'}
+{'Cheese', 'Milk', 'Yougurt', 'Butter'}
+{'Bread', 'Yougurt', 'Butter', 'Cheese', 'Milk'}
+{'Yougurt', 'Butter', 'Coffee Powder', 'Cheese', 'Milk'}
+{'Coffee Powder', 'Cheese', 'Milk', 'Butter'}
+{'Bread', 'Butter', 'Coffee Powder', 'Cheese', 'Milk'}
+{'Cheese', 'Milk', 'Butter', 'Bread'}
+{'Cheese', 'Milk', 'Sweet'}
+{'Cheese', 'Milk', 'Yougurt', 'Sweet'}
+{'Yougurt', 'Coffee Powder', 'Sweet', 'Cheese', 'Milk'}
+{'Ghee', 'Yougurt', 'Sweet', 'Cheese', 'Milk'}
+{'Cheese', 'Milk', 'Bread', 'Sweet'}
+{'Bread', 'Ghee', 'Sweet', 'Cheese', 'Milk'}
+{'Bread', 'Coffee Powder', 'Sweet', 'Cheese', 'Milk'}
+{'Cheese', 'Milk', 'Ghee', 'Sweet'}
+{'Ghee', 'Coffee Powder', 'Sweet', 'Cheese', 'Milk'}
+{'Coffee Powder', 'Cheese', 'Milk', 'Sweet'}
+{'Cheese', 'Milk', 'Ghee'}
+{'Cheese', 'Milk', 'Yougurt', 'Ghee'}
+{'Cheese', 'Milk', 'Bread', 'Ghee'}
+{'Coffee Powder', 'Cheese', 'Milk', 'Ghee'}
+{'Coffee Powder', 'Cheese', 'Milk'}
+{'Coffee Powder', 'Cheese', 'Milk', 'Bread'}
+{'Coffee Powder', 'Cheese', 'Milk', 'Yougurt'}
+{'Cheese', 'Milk', 'Yougurt'}
+{'Cheese', 'Milk', 'Yougurt', 'Bread'}
+{'Cheese', 'Milk', 'Bread'}
+{'Cheese', 'Milk', 'Yougurt', 'Bread'}
+{'Cheese', 'Ghee'}
+{'Cheese', 'Butter', 'Ghee'}
+{'Cheese', 'Sweet', 'Butter', 'Ghee'}
+{'Ghee', 'Butter', 'Coffee Powder', 'Sweet', 'Cheese'}
+{'Bread', 'Ghee', 'Butter', 'Sweet', 'Cheese'}
+{'Ghee', 'Yougurt', 'Butter', 'Sweet', 'Cheese'}
+{'Cheese', 'Butter', 'Ghee', 'Bread'}
+{'Bread', 'Ghee', 'Butter', 'Coffee Powder', 'Cheese'}
+{'Bread', 'Ghee', 'Yougurt', 'Butter', 'Cheese'}
+{'Cheese', 'Coffee Powder', 'Butter', 'Ghee'}
+{'Ghee', 'Yougurt', 'Butter', 'Coffee Powder', 'Cheese'}
+{'Cheese', 'Yougurt', 'Butter', 'Ghee'}
+{'Cheese', 'Sweet', 'Ghee'}
+{'Coffee Powder', 'Cheese', 'Sweet', 'Ghee'}
+{'Ghee', 'Yougurt', 'Coffee Powder', 'Sweet', 'Cheese'}
+{'Bread', 'Ghee', 'Coffee Powder', 'Sweet', 'Cheese'}
+{'Cheese', 'Sweet', 'Yougurt', 'Ghee'}
+{'Bread', 'Ghee', 'Yougurt', 'Sweet', 'Cheese'}
+{'Cheese', 'Sweet', 'Bread', 'Ghee'}
+{'Cheese', 'Bread', 'Ghee'}
+{'Cheese', 'Yougurt', 'Bread', 'Ghee'}
+{'Bread', 'Ghee', 'Yougurt', 'Coffee Powder', 'Cheese'}
+{'Cheese', 'Coffee Powder', 'Bread', 'Ghee'}
+{'Cheese', 'Coffee Powder', 'Ghee'}
+{'Cheese', 'Coffee Powder', 'Yougurt', 'Ghee'}
+{'Cheese', 'Yougurt', 'Ghee'}
+{'Cheese', 'Butter'}
+{'Cheese', 'Coffee Powder', 'Butter'}
+{'Cheese', 'Coffee Powder', 'Butter', 'Sweet'}
+{'Bread', 'Butter', 'Coffee Powder', 'Sweet', 'Cheese'}
+{'Yougurt', 'Butter', 'Coffee Powder', 'Sweet', 'Cheese'}
+{'Cheese', 'Coffee Powder', 'Butter', 'Bread'}
+{'Bread', 'Yougurt', 'Butter', 'Coffee Powder', 'Cheese'}
+{'Cheese', 'Coffee Powder', 'Yougurt', 'Butter'}
+{'Cheese', 'Butter', 'Bread'}
+{'Cheese', 'Sweet', 'Butter', 'Bread'}
+{'Bread', 'Yougurt', 'Butter', 'Sweet', 'Cheese'}
+{'Cheese', 'Yougurt', 'Butter', 'Bread'}
+{'Cheese', 'Yougurt', 'Butter'}
+{'Cheese', 'Sweet', 'Yougurt', 'Butter'}
+{'Cheese', 'Sweet', 'Butter'}
+{'Cheese', 'Sweet'}
+{'Coffee Powder', 'Cheese', 'Sweet'}
+{'Coffee Powder', 'Cheese', 'Sweet', 'Yougurt'}
+{'Bread', 'Yougurt', 'Coffee Powder', 'Sweet', 'Cheese'}
+{'Coffee Powder', 'Cheese', 'Sweet', 'Bread'}
+{'Cheese', 'Sweet', 'Bread'}
+{'Cheese', 'Sweet', 'Yougurt', 'Bread'}
+{'Cheese', 'Sweet', 'Yougurt'}
+{'Cheese', 'Coffee Powder'}
+{'Cheese', 'Coffee Powder', 'Yougurt'}
+{'Cheese', 'Coffee Powder', 'Yougurt', 'Bread'}
+{'Cheese', 'Coffee Powder', 'Bread'}
+{'Cheese', 'Bread'}
+{'Cheese', 'Yougurt', 'Bread'}
+{'Cheese', 'Yougurt'}
+{'Butter'}
+{'Bread', 'Butter'}
+{'Bread', 'Coffee Powder', 'Butter'}
+{'Bread', 'Coffee Powder', 'Butter', 'Ghee'}
+{'Bread', 'Ghee', 'Butter', 'Coffee Powder', 'Sweet'}
+{'Bread', 'Ghee', 'Butter', 'Coffee Powder', 'Milk'}
+{'Bread', 'Ghee', 'Yougurt', 'Butter', 'Coffee Powder'}
+{'Bread', 'Ghee', 'Sugar', 'Butter', 'Coffee Powder'}
+{'Bread', 'Coffee Powder', 'Butter', 'Sweet'}
+{'Bread', 'Yougurt', 'Butter', 'Coffee Powder', 'Sweet'}
+{'Bread', 'Butter', 'Coffee Powder', 'Sweet', 'Milk'}
+{'Bread', 'Sugar', 'Butter', 'Coffee Powder', 'Sweet'}
+{'Bread', 'Coffee Powder', 'Butter', 'Milk'}
+{'Bread', 'Yougurt', 'Butter', 'Coffee Powder', 'Milk'}
+{'Bread', 'Sugar', 'Butter', 'Coffee Powder', 'Milk'}
+{'Bread', 'Coffee Powder', 'Yougurt', 'Butter'}
+{'Bread', 'Sugar', 'Yougurt', 'Butter', 'Coffee Powder'}
+{'Bread', 'Coffee Powder', 'Butter', 'Sugar'}
+{'Bread', 'Butter', 'Ghee'}
+{'Bread', 'Yougurt', 'Butter', 'Ghee'}
+{'Bread', 'Ghee', 'Yougurt', 'Butter', 'Sweet'}
+{'Bread', 'Ghee', 'Yougurt', 'Butter', 'Milk'}
+{'Bread', 'Butter', 'Ghee', 'Sugar'}
+{'Bread', 'Ghee', 'Sugar', 'Butter', 'Milk'}
+{'Bread', 'Ghee', 'Sugar', 'Butter', 'Sweet'}
+{'Bread', 'Sweet', 'Butter', 'Ghee'}
+{'Bread', 'Ghee', 'Butter', 'Sweet', 'Milk'}
+{'Bread', 'Milk', 'Butter', 'Ghee'}
+{'Bread', 'Sweet', 'Butter'}
+{'Bread', 'Sweet', 'Yougurt', 'Butter'}
+{'Bread', 'Sweet', 'Butter', 'Sugar'}
+{'Bread', 'Sugar', 'Butter', 'Sweet', 'Milk'}
+{'Bread', 'Sweet', 'Butter', 'Milk'}
+{'Bread', 'Milk', 'Butter'}
+{'Bread', 'Milk', 'Yougurt', 'Butter'}
+{'Bread', 'Milk', 'Butter', 'Sugar'}
+{'Bread', 'Yougurt', 'Butter'}
+{'Bread', 'Butter', 'Sugar'}
+{'Bread', 'Yougurt', 'Butter', 'Sugar'}
+{'Milk', 'Butter'}
+{'Coffee Powder', 'Milk', 'Butter'}
+{'Coffee Powder', 'Milk', 'Butter', 'Ghee'}
+{'Ghee', 'Butter', 'Coffee Powder', 'Sweet', 'Milk'}
+{'Ghee', 'Sugar', 'Butter', 'Coffee Powder', 'Milk'}
+{'Ghee', 'Yougurt', 'Butter', 'Coffee Powder', 'Milk'}
+{'Coffee Powder', 'Milk', 'Butter', 'Sweet'}
+{'Yougurt', 'Butter', 'Coffee Powder', 'Sweet', 'Milk'}
+{'Sugar', 'Butter', 'Coffee Powder', 'Sweet', 'Milk'}
+{'Coffee Powder', 'Milk', 'Yougurt', 'Butter'}
+{'Sugar', 'Yougurt', 'Butter', 'Coffee Powder', 'Milk'}
+{'Coffee Powder', 'Milk', 'Butter', 'Sugar'}
+{'Milk', 'Butter', 'Ghee'}
+{'Milk', 'Yougurt', 'Butter', 'Ghee'}
+{'Ghee', 'Yougurt', 'Butter', 'Sweet', 'Milk'}
+{'Ghee', 'Sugar', 'Yougurt', 'Butter', 'Milk'}
+{'Milk', 'Butter', 'Ghee', 'Sweet'}
+{'Ghee', 'Sugar', 'Butter', 'Sweet', 'Milk'}
+{'Milk', 'Butter', 'Ghee', 'Sugar'}
+{'Milk', 'Yougurt', 'Butter'}
+{'Milk', 'Yougurt', 'Butter', 'Sweet'}
+{'Sugar', 'Yougurt', 'Butter', 'Sweet', 'Milk'}
+{'Milk', 'Yougurt', 'Butter', 'Sugar'}
+{'Milk', 'Butter', 'Sweet'}
+{'Milk', 'Butter', 'Sweet', 'Sugar'}
+{'Milk', 'Butter', 'Sugar'}
+{'Coffee Powder', 'Butter'}
+{'Coffee Powder', 'Butter', 'Sweet'}
+{'Ghee', 'Coffee Powder', 'Butter', 'Sweet'}
+{'Ghee', 'Yougurt', 'Butter', 'Coffee Powder', 'Sweet'}
+{'Ghee', 'Sugar', 'Butter', 'Coffee Powder', 'Sweet'}
+{'Coffee Powder', 'Yougurt', 'Butter', 'Sweet'}
+{'Sugar', 'Yougurt', 'Butter', 'Coffee Powder', 'Sweet'}
+{'Coffee Powder', 'Butter', 'Sweet', 'Sugar'}
+{'Coffee Powder', 'Butter', 'Sugar'}
+{'Coffee Powder', 'Butter', 'Ghee', 'Sugar'}
+{'Ghee', 'Sugar', 'Yougurt', 'Butter', 'Coffee Powder'}
+{'Coffee Powder', 'Yougurt', 'Butter', 'Sugar'}
+{'Coffee Powder', 'Yougurt', 'Butter'}
+{'Coffee Powder', 'Butter', 'Ghee'}
+{'Coffee Powder', 'Yougurt', 'Butter', 'Ghee'}
+{'Yougurt', 'Butter'}
+{'Yougurt', 'Butter', 'Ghee'}
+{'Sweet', 'Yougurt', 'Butter', 'Ghee'}
+{'Ghee', 'Sugar', 'Yougurt', 'Butter', 'Sweet'}
+{'Yougurt', 'Butter', 'Ghee', 'Sugar'}
+{'Sweet', 'Yougurt', 'Butter'}
+{'Sweet', 'Yougurt', 'Butter', 'Sugar'}
+{'Yougurt', 'Butter', 'Sugar'}
+{'Butter', 'Ghee'}
+{'Sweet', 'Butter', 'Ghee'}
+{'Sweet', 'Butter', 'Ghee', 'Sugar'}
+{'Butter', 'Ghee', 'Sugar'}
+{'Sweet', 'Butter'}
+{'Sweet', 'Butter', 'Sugar'}
+{'Butter', 'Sugar'}
+{'Sugar'}
+{'Bread', 'Sugar'}
+{'Sweet', 'Bread', 'Sugar'}
+{'Sweet', 'Yougurt', 'Bread', 'Sugar'}
+{'Bread', 'Ghee', 'Sugar', 'Yougurt', 'Sweet'}
+{'Bread', 'Sugar', 'Yougurt', 'Coffee Powder', 'Sweet'}
+{'Bread', 'Sugar', 'Yougurt', 'Sweet', 'Milk'}
+{'Sweet', 'Bread', 'Ghee', 'Sugar'}
+{'Bread', 'Ghee', 'Sugar', 'Sweet', 'Milk'}
+{'Bread', 'Ghee', 'Sugar', 'Coffee Powder', 'Sweet'}
+{'Coffee Powder', 'Sweet', 'Bread', 'Sugar'}
+{'Bread', 'Sugar', 'Coffee Powder', 'Sweet', 'Milk'}
+{'Sweet', 'Bread', 'Sugar', 'Milk'}
+{'Yougurt', 'Bread', 'Sugar'}
+{'Yougurt', 'Bread', 'Ghee', 'Sugar'}
+{'Bread', 'Ghee', 'Sugar', 'Yougurt', 'Milk'}
+{'Bread', 'Ghee', 'Sugar', 'Yougurt', 'Coffee Powder'}
+{'Coffee Powder', 'Yougurt', 'Bread', 'Sugar'}
+{'Bread', 'Sugar', 'Yougurt', 'Coffee Powder', 'Milk'}
+{'Milk', 'Yougurt', 'Bread', 'Sugar'}
+{'Bread', 'Ghee', 'Sugar'}
+{'Milk', 'Bread', 'Ghee', 'Sugar'}
+{'Bread', 'Ghee', 'Sugar', 'Coffee Powder', 'Milk'}
+{'Coffee Powder', 'Bread', 'Ghee', 'Sugar'}
+{'Coffee Powder', 'Bread', 'Sugar'}
+{'Coffee Powder', 'Bread', 'Sugar', 'Milk'}
+{'Milk', 'Bread', 'Sugar'}
+{'Sweet', 'Sugar'}
+{'Sweet', 'Ghee', 'Sugar'}
+{'Sweet', 'Yougurt', 'Ghee', 'Sugar'}
+{'Ghee', 'Sugar', 'Yougurt', 'Coffee Powder', 'Sweet'}
+{'Ghee', 'Sugar', 'Yougurt', 'Sweet', 'Milk'}
+{'Coffee Powder', 'Sweet', 'Ghee', 'Sugar'}
+{'Ghee', 'Sugar', 'Coffee Powder', 'Sweet', 'Milk'}
+{'Sweet', 'Ghee', 'Sugar', 'Milk'}
+{'Coffee Powder', 'Sweet', 'Sugar'}
+{'Coffee Powder', 'Sweet', 'Yougurt', 'Sugar'}
+{'Sugar', 'Yougurt', 'Coffee Powder', 'Sweet', 'Milk'}
+{'Coffee Powder', 'Sweet', 'Sugar', 'Milk'}
+{'Sweet', 'Yougurt', 'Sugar'}
+{'Sweet', 'Yougurt', 'Sugar', 'Milk'}
+{'Sweet', 'Sugar', 'Milk'}
+{'Coffee Powder', 'Sugar'}
+{'Coffee Powder', 'Ghee', 'Sugar'}
+{'Coffee Powder', 'Ghee', 'Sugar', 'Milk'}
+{'Ghee', 'Sugar', 'Yougurt', 'Coffee Powder', 'Milk'}
+{'Coffee Powder', 'Yougurt', 'Ghee', 'Sugar'}
+{'Coffee Powder', 'Yougurt', 'Sugar'}
+{'Coffee Powder', 'Yougurt', 'Sugar', 'Milk'}
+{'Coffee Powder', 'Sugar', 'Milk'}
+{'Ghee', 'Sugar'}
+{'Yougurt', 'Ghee', 'Sugar'}
+{'Milk', 'Yougurt', 'Ghee', 'Sugar'}
+{'Milk', 'Ghee', 'Sugar'}
+{'Yougurt', 'Sugar'}
+{'Milk', 'Yougurt', 'Sugar'}
+{'Milk', 'Sugar'}
+{'Sweet'}
+{'Sweet', 'Yougurt'}
+{'Sweet', 'Yougurt', 'Ghee'}
+{'Sweet', 'Yougurt', 'Bread', 'Ghee'}
+{'Bread', 'Ghee', 'Yougurt', 'Sweet', 'Milk'}
+{'Bread', 'Ghee', 'Yougurt', 'Coffee Powder', 'Sweet'}
+{'Sweet', 'Yougurt', 'Ghee', 'Milk'}
+{'Ghee', 'Yougurt', 'Coffee Powder', 'Sweet', 'Milk'}
+{'Coffee Powder', 'Sweet', 'Yougurt', 'Ghee'}
+{'Sweet', 'Yougurt', 'Milk'}
+{'Sweet', 'Yougurt', 'Bread', 'Milk'}
+{'Bread', 'Yougurt', 'Coffee Powder', 'Sweet', 'Milk'}
+{'Coffee Powder', 'Sweet', 'Yougurt', 'Milk'}
+{'Sweet', 'Yougurt', 'Bread'}
+{'Coffee Powder', 'Sweet', 'Yougurt', 'Bread'}
+{'Coffee Powder', 'Sweet', 'Yougurt'}
+{'Coffee Powder', 'Sweet'}
+{'Coffee Powder', 'Sweet', 'Milk'}
+{'Coffee Powder', 'Sweet', 'Ghee', 'Milk'}
+{'Bread', 'Ghee', 'Coffee Powder', 'Sweet', 'Milk'}
+{'Coffee Powder', 'Sweet', 'Bread', 'Milk'}
+{'Coffee Powder', 'Sweet', 'Ghee'}
+{'Coffee Powder', 'Sweet', 'Bread', 'Ghee'}
+{'Coffee Powder', 'Sweet', 'Bread'}
+{'Sweet', 'Ghee'}
+{'Sweet', 'Ghee', 'Milk'}
+{'Sweet', 'Bread', 'Ghee', 'Milk'}
+{'Sweet', 'Bread', 'Ghee'}
+{'Sweet', 'Milk'}
+{'Sweet', 'Bread', 'Milk'}
+{'Sweet', 'Bread'}
+{'Bread'}
+{'Bread', 'Ghee'}
+{'Yougurt', 'Bread', 'Ghee'}
+{'Milk', 'Yougurt', 'Bread', 'Ghee'}
+{'Bread', 'Ghee', 'Yougurt', 'Coffee Powder', 'Milk'}
+{'Coffee Powder', 'Yougurt', 'Bread', 'Ghee'}
+{'Milk', 'Bread', 'Ghee'}
+{'Coffee Powder', 'Milk', 'Bread', 'Ghee'}
+{'Coffee Powder', 'Bread', 'Ghee'}
+{'Yougurt', 'Bread'}
+{'Milk', 'Yougurt', 'Bread'}
+{'Coffee Powder', 'Milk', 'Yougurt', 'Bread'}
+{'Coffee Powder', 'Yougurt', 'Bread'}
+{'Milk', 'Bread'}
+{'Coffee Powder', 'Milk', 'Bread'}
+{'Coffee Powder', 'Bread'}
+{'Yougurt'}
+{'Yougurt', 'Ghee'}
+{'Milk', 'Yougurt', 'Ghee'}
+{'Coffee Powder', 'Milk', 'Yougurt', 'Ghee'}
+{'Coffee Powder', 'Yougurt', 'Ghee'}
+{'Milk', 'Yougurt'}
+{'Coffee Powder', 'Milk', 'Yougurt'}
+{'Coffee Powder', 'Yougurt'}
+{'Coffee Powder'}
+{'Coffee Powder', 'Milk'}
+{'Coffee Powder', 'Ghee', 'Milk'}
+{'Coffee Powder', 'Ghee'}
+{'Ghee'}
+{'Milk', 'Ghee'}
+{'Milk'}
